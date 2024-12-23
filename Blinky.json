@@ -52,10 +52,6 @@
         "pass": "password1",
         "wsRoom": "ws://142.93.223.217:8081",
         "turn": "turn:139.59.2.135:3478",
-        "more_ad_status": false,
-        "int_more_ad_status": false,
-        "more_ad": [],
-        "int_more_ad": [],
         "privacy_policy": "https://cromadigit.blogspot.com/2024/12/blinky-live-video-call.html"
     }
 }
