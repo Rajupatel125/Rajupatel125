@@ -48,6 +48,11 @@
         "website_ad_list": [
             ""
         ],
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "force_update": false,
+        "force_update_url": "",
         "user": "username1",
         "pass": "password1",
         "wsRoom": "ws://142.93.223.217:8081",
