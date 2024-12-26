@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <script>
+        // Extract condition from URL query parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const condition = urlParams.get('condition'); // e.g., ?condition=true
+
+        // Serve different JSON based on the condition
+        if (condition === 'true') {
+            document.write(JSON.stringify({
+                status: "true",
+                message: "This is the true condition data."
+            }));
+        } else {
+            document.write(JSON.stringify({
+                status: "false",
+                message: "This is the false condition data."
+            }));
+        }
+    </script>
+</body>
+</html>
