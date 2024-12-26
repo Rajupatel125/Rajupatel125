@@ -1,0 +1,63 @@
+
+{
+    "success": true,
+    "message": "Success",
+    "data": {
+        "g_banner": [
+            "/21753324030,23204693656/com.blinky.livevideocall_Banner",
+            "/21753324030,23204693656/com.blinky.livevideocall_Banner"
+        ],
+        "g_int": [
+            "/21753324030,23204693656/com.blinky.livevideocall_Interstitial",
+            "/21753324030,23204693656/com.blinky.livevideocall_Interstitial"
+        ],
+        "g_native": [
+            "/21753324030,23204693656/com.blinky.livevideocall_Native",
+            "/21753324030,23204693656/com.blinky.livevideocall_Native"
+        ],
+        "g_open": [
+            "/21753324030,23204693656/com.blinky.livevideocall_AppOpen",
+            "/21753324030,23204693656/com.blinky.livevideocall_AppOpen"
+        ],
+        "fb_banner": [
+            "1084476949804281_1084607306457912"
+        ],
+        "fb_int": [
+            "1084476949804281_1084484886470154",
+            "1084476949804281_1084484886470154"
+        ],
+        "fb_native": [
+            "1084476949804281_1084484633136846",
+            "1084476949804281_1084484633136846"
+        ],
+        "fb_native_banner": [
+            "1084476949804281_1084484729803503",
+            "1084476949804281_1084484729803503"
+        ],
+        "double_ad_status": false,
+        "ads_status": true,
+        "splash_ads_status": true,
+        "is_facebook_first": true,
+        "ads_count": 1,
+        "backword_ads_count": 1,
+        "streaming_video_api": "https://xham.live/api/front/models?primaryTag=girls&sortBy=trending&parentTag=autoTagNew&userRole=guest&uniq=676d32a7b460d",
+        "in_video_ads_time": 30,
+        "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
+        "reels_ad_counts": 5,
+        "website_ad_status": false,
+        "website_ad_count": 50,
+        "website_ad_list": [
+            ""
+        ],
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "force_update": false,
+        "force_update_url": "",
+        "user": "username1",
+        "pass": "password1",
+        "wsRoom": "ws://142.93.223.217:8081",
+        "turn": "turn:139.59.2.135:3478",
+        "privacy_policy": "https://cromadigit.blogspot.com/2024/12/blinky-live-video-call.html"
+    }
+}
