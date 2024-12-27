@@ -7,23 +7,23 @@
             "/21753324030,23204693656/com.blinky.livevideocall_Banner"
         ],
         "g_int": [
-            "aa/21753324030,23204693656/com.blinky.livevideocall_Interstitial",
-            "aa/21753324030,23204693656/com.blinky.livevideocall_Interstitial"
+            "/21753324030,23204693656/com.blinky.livevideocall_Interstitial",
+            "/21753324030,23204693656/com.blinky.livevideocall_Interstitial"
         ],
         "g_native": [
             "/21753324030,23204693656/com.blinky.livevideocall_Native",
             "/21753324030,23204693656/com.blinky.livevideocall_Native"
         ],
         "g_open": [
-            "ca-app-pub-3940256099942544/9257395921",
-            "ca-app-pub-3940256099942544/9257395921"
+            "/21753324030,23204693656/com.blinky.livevideocall_AppOpen",
+            "/21753324030,23204693656/com.blinky.livevideocall_AppOpen"
         ],
         "fb_banner": [
             "1084476949804281_1084607306457912"
         ],
         "fb_int": [
-            "",
-            ""
+            "1084476949804281_1084484886470154",
+            "1084476949804281_1084484886470154"
         ],
         "fb_native": [
             "1084476949804281_1084484633136846",
@@ -41,14 +41,14 @@
         "ads_count": 1,
         "backword_ads_count": 1,
         "streaming_video_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
-        "streaming_live_api": "https://xham.live/api/front/models?primaryTag=girls&sortBy=trending&parentTag=autoTagNew&userRole=guest&filterGroupTags=%5B%5B\"ethnicityIndian\"%5D%5D&uniq=676d32a7b48a6",
+        "streaming_live_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
         "in_video_ads_time": 30,
         "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
         "reels_ad_counts": 5,
         "website_ad_status": false,
         "website_ad_count": 50,
         "website_ad_list": [
-            "https://earnonline1045.gamesdonut.com"
+            ""
         ],
         "live_video_api": "https://stockomarket.com/apps/fakecall/",
         "live_video_min": 1,
