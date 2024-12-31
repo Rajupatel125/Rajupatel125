@@ -36,7 +36,7 @@
         "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": false,
-        "is_facebook_first": true,
+        "is_facebook_first": false,
         "by_pass": true,
         "ads_count": 1,
         "backword_ads_count": 1,
