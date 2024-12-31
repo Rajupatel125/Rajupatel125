@@ -34,7 +34,7 @@
             "1084476949804281_1084484729803503"
         ],
         "double_ad_status": false,
-        "ads_status": false,
+        "ads_status": true,
         "splash_ads_status": true,
         "is_facebook_first": false,
         "by_pass": true,
