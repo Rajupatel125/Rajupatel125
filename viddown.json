@@ -43,7 +43,7 @@
         "streaming_video_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
         "streaming_live_api": "https://xham.live/api/front/models?primaryTag=girls&sortBy=trending&parentTag=autoTagNew&userRole=guest&uniq=67710baf59388",
         "in_video_ads_time": 30,
-        "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
+        "reels_videos": "https://stockomarket.com/api/TheBillionerAppLLC/MidNight/reels_videos",
         "reels_ad_counts": 5,
         "website_ad_status": false,
         "website_ad_count": 50,
