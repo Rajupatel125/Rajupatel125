@@ -37,7 +37,7 @@
         "ads_status": true,
         "splash_ads_status": false,
         "is_facebook_first": false,
-        "by_pass": true,
+        "by_pass": false,
         "ads_count": 1,
         "backword_ads_count": 1,
         "streaming_video_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
@@ -59,6 +59,6 @@
         "pass": "password1",
         "wsRoom": "ws://142.93.223.217:8081",
         "turn": "turn:139.59.2.135:3478",
-        "privacy_policy": "https://cromadigit.blogspot.com/2024/12/blinky-live-video-call.html"
+        "privacy_policy": "https://www.privacypolicies.com/live/cc54ecbd-a466-42a4-9f33-36b167182d9a"
     }
 }
