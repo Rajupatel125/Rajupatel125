@@ -37,7 +37,7 @@
         "ads_status": true,
         "splash_ads_status": true,
         "is_facebook_first": false,
-        "by_pass": true,
+        "by_pass": false,
         "ads_count": 1,
         "backword_ads_count": 1,
         "streaming_video_api": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
