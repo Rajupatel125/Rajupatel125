@@ -41,7 +41,7 @@
         "ads_count": 1,
         "backword_ads_count": 1,
         "streaming_video_api": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
-        "streaming_live_api": "https://xham.live/api/front/models?primaryTag=girls&sortBy=trending&parentTag=autoTagNew&userRole=guest&uniq=67710baf59388",
+        "streaming_live_api": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
         "in_video_ads_time": 30,
         "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
         "reels_ad_counts": 5,
