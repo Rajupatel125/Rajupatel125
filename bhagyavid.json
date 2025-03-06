@@ -43,7 +43,7 @@
         "streaming_video_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
         "streaming_live_api": "https://rajupatel125.github.io/Rajupatel125/video/love.json?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
         "in_video_ads_time": 30,
-        "reels_videos": "",
+        "reels_videos": "https://stockomarket.com/api/GetData/orginal_reels_videos",
         "reels_ad_counts": 1,
         "website_ad_status": false,
         "website_ad_count": 50,
