@@ -2,9 +2,9 @@
   "models": [
     {
       "username": "Sana",
-      "avatarUrl": "/love1.jpg",
-      "previewUrlThumbSmall": "/love1.jpg",
-      "previewUrlThumbBig": "/love1.jpg",
+      "avatarUrl": "https://rajupatel125.github.io/Rajupatel125/video/love1.jpg",
+      "previewUrlThumbSmall": "https://rajupatel125.github.io/Rajupatel125/video/love1.jpg",
+      "previewUrlThumbBig": "https://rajupatel125.github.io/Rajupatel125/video/love1.jpg",
       "isLive": true,
       "viewersCount": 896,
       "groupShowType": "",
@@ -12,9 +12,9 @@
     },
     {
       "username": "Kavya ",
-      "avatarUrl": "/love2.jpg",
-      "previewUrlThumbSmall": "/love2.jpg",
-      "previewUrlThumbBig": "/love2.jpg",
+      "avatarUrl": "https://rajupatel125.github.io/Rajupatel125/video/love2.jpg",
+      "previewUrlThumbSmall": "https://rajupatel125.github.io/Rajupatel125/video/love2.jpg",
+      "previewUrlThumbBig": "https://rajupatel125.github.io/Rajupatel125/video/love2.jpg",
       "isLive": true,
       "viewersCount": 341,
       "groupShowType": "",
