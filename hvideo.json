@@ -1,23 +1,22 @@
-
 {
     "success": true,
     "message": "Success",
     "data": {
         "g_banner": [
-            "",
-            ""
+            "/21753324030,23204693656/com.downloader.hvideo_Banner",
+            "/21753324030,23204693656/com.downloader.hvideo_Banner"
         ],
         "g_int": [
-            "",
-            ""
+            "/21753324030,23204693656/com.downloader.hvideo_Interstitial",
+            "/21753324030,23204693656/com.downloader.hvideo_Interstitial"
         ],
         "g_native": [
-            "",
-            ""
+            "/21753324030,23204693656/com.downloader.hvideo_Native",
+            "/21753324030,23204693656/com.downloader.hvideo_Native"
         ],
         "g_open": [
-            "",
-            ""
+            "/21753324030,23204693656/com.downloader.hvideo_AppOpen",
+            "/21753324030,23204693656/com.downloader.hvideo_AppOpen"
         ],
         "fb_banner": [
             ""
@@ -38,13 +37,13 @@
         "ads_status": true,
         "splash_ads_status": false,
         "is_facebook_first": false,
-        "by_pass": false,
+        "by_pass": true,
         "ads_count": 1,
         "backword_ads_count": 1,
         "streaming_video_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
-        "streaming_live_api": "https://stockomarket.com/api/infinity/Piqo/live_stream?primaryTag=girls&userRole=guest&uniq=67518ab782646",
+        "streaming_live_api": "https://rajupatel125.github.io/Rajupatel125/video/love.json?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
         "in_video_ads_time": 30,
-        "reels_videos": "https://stockomarket.com/api/GetData/orginal_reels_videos",
+        "reels_videos": "https://appdata611.github.io/appdata/reels.json",
         "reels_ad_counts": 1,
         "website_ad_status": false,
         "website_ad_count": 50,
