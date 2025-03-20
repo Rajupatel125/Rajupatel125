@@ -33,7 +33,7 @@
             "",
             ""
         ],
-        "double_ad_status": true,
+        "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": false,
         "is_facebook_first": false,
