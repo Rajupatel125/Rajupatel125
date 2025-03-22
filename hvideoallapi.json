@@ -2,15 +2,15 @@
   "categories": [
     {
       "category_name": "Funny Videos",
-      "video_list_url": "https://example.com/api/funny_videos.json"
+      "video_list_url": "https://appdata611.github.io/appdata/reels.json"
     },
     {
       "category_name": "Music Videos",
-      "video_list_url": "https://example.com/api/music_videos.json"
+      "video_list_url": "https://appdata611.github.io/appdata/reels.json"
     },
     {
       "category_name": "Sports Clips",
-      "video_list_url": "https://example.com/api/sports_videos.json"
+      "video_list_url": "https://appdata611.github.io/appdata/reels.json"
     }
   ]
 }
