@@ -44,6 +44,7 @@
         "streaming_live_api": "https://rajanikhana.github.io/mical/video-category.json",
         "in_video_ads_time": 30,
         "reels_videos": "https://rajanikhana.github.io/mical/mix-reels.json",
+        "reels_videos_mix": "https://rajanikhana.github.io/mical/mix-reels.json",
         "reels_ad_counts": 1,
         "website_ad_status": true,
         "website_ad_count": 50,
