@@ -7,12 +7,12 @@
             "/23195226677,23204693656/ultimateplayerdownloader_mitul_banner"
         ],
         "g_int": [
-            "/21753324030,23204693656/com.bhagya.videodownloader_Interstitial",
-            "/21753324030,23204693656/com.bhagya.videodownloader_Interstitial"
+            "ca-app-pub-5777648021562994/9079561474",
+            "ca-app-pub-5777648021562994/9079561474"
         ],
         "g_native": [
-            "/21753324030,23204693656/com.bhagya.videodownloader_Native",
-            "/21753324030,23204693656/com.bhagya.videodownloader_Native"
+            "ca-app-pub-5777648021562994/1094798662",
+            "ca-app-pub-5777648021562994/1094798662"
         ],
         "g_open": [
             "/21753324030,23204693656/com.bhagya.videodownloader_AppOpen",
@@ -36,7 +36,7 @@
         "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": false,
-        "is_facebook_first": true,
+        "is_facebook_first": false,
         "by_pass": true,
         "ads_count": 1,
         "backword_ads_count": 1,
