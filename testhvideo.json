@@ -38,7 +38,7 @@
         "splash_ads_status": false,
         "is_facebook_first": false,
         "by_pass": true,
-        "ads_count": 2,
+        "ads_count": 1,
         "backword_ads_count": 1,
         "streaming_video_api": "https://rajanikhana.github.io/mical/all-video-category.json",
         "streaming_live_api": "https://rajanikhana.github.io/mical/video-category.json",
