@@ -7,16 +7,16 @@
             "/21753324030,23204693656/com.downloader.hvideo_Banner"
         ],
         "g_int": [
-            "ca-app-pub-5777648021562994/8673905786",
-            "ca-app-pub-5777648021562994/8673905786"
+            "/21753324030,23204693656/com.downloader.hvideo_Interstitial",
+            "/21753324030,23204693656/com.downloader.hvideo_Interstitial"
         ],
         "g_native": [
             "/21753324030,23204693656/com.downloader.hvideo_Native",
             "/21753324030,23204693656/com.downloader.hvideo_Native"
         ],
         "g_open": [
-            "",
-            ""
+            "/21753324030,23204693656/com.downloader.hvideo_AppOpen",
+            "/21753324030,23204693656/com.downloader.hvideo_AppOpen"
         ],
         "fb_banner": [
             ""
@@ -38,14 +38,14 @@
         "splash_ads_status": false,
         "is_facebook_first": false,
         "by_pass": true,
-        "ads_count": 3,
+        "ads_count": 2,
         "backword_ads_count": 1,
         "streaming_video_api": "https://rajanikhana.github.io/mical/all-video-category.json",
         "streaming_live_api": "https://rajanikhana.github.io/mical/video-category.json",
         "in_video_ads_time": 30,
         "reels_videos": "https://rajanikhana.github.io/mical/all-reels.json",
         "reels_videos_mix": "https://rajanikhana.github.io/mical/mix-reels.json",
-        "reels_ad_counts": 5,
+        "reels_ad_counts": 3,
         "website_ad_status": true,
         "website_ad_count": 50,
         "website_ad_list": [
