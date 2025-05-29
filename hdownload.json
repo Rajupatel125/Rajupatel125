@@ -4,20 +4,20 @@
     "message": "Success",
     "data": {
         "g_banner": [
-            "",
-            ""
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Banner",
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Banner"
         ],
         "g_int": [
-            "",
-            ""
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Interstitial",
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Interstitial"
         ],
         "g_native": [
-            "",
-            ""
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Native",
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Native"
         ],
         "g_open": [
-            "",
-            ""
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_AppOpen",
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_AppOpen"
         ],
         "fb_banner": [
             ""
