@@ -51,7 +51,7 @@
         "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": true,
-        "is_facebook_first": true,
+        "is_facebook_first": false,
         "is_mid": true,
         "by_pass": true,
         "ads_count": 1,
