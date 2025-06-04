@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "message": "Success",
+    "data": {
+        "g_banner": [
+            "",
+            ""
+        ],
+        "g_int": [
+            "",
+            ""
+        ],
+        "g_native": [
+            "",
+            ""
+        ],
+        "g_open": [
+            "",
+            ""
+        ],
+        "fb_banner": [
+            ""
+        ],
+        "fb_int": [
+            "",
+            ""
+        ],
+        "fb_native": [
+            "",
+            ""
+        ],
+        "fb_native_banner": [
+            "",
+            ""
+        ],
+        "mid_fb_banner": [
+            ""
+        ],
+        "mid_fb_int": [
+            "ADD887C01DB150312C4C54C434626FC7",
+            "ADD887C01DB150312C4C54C434626FC7"
+        ],
+        "mid_fb_native": [
+            "95A8360A61B7D51487A8981105D9B233",
+            "95A8360A61B7D51487A8981105D9B233"
+        ],
+        "mid_fb_native_banner": [
+            "",
+            ""
+        ],
+        "double_ad_status": false,
+        "ads_status": true,
+        "splash_ads_status": true,
+        "is_facebook_first": false,
+        "is_mid": true,
+        "by_pass": true,
+        "ads_count": 1,
+        "backword_ads_count": 1,
+        "streaming_video_api": "https://rajanikhana.github.io/mical/all-video-category.json",
+        "streaming_live_api": "https://rajanikhana.github.io/mical/video-category.json",
+        "in_video_ads_time": 30,
+        "reels_videos": "https://rajanikhana.github.io/mical/all-reels.json",
+        "reels_videos_mix": "https://rajanikhana.github.io/mical/mix-reels.json",
+        "reels_ad_counts": 3,
+        "website_ad_status": false,
+        "website_ad_count": 50,
+        "website_ad_list": [
+            "https://earnonline1045.gamesdonut.com"
+        ],
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "force_update": false,
+        "force_update_url": "",
+        "user": "username1",
+        "pass": "password1",
+        "wsRoom": "ws://142.93.223.217:8081",
+        "turn": "turn:139.59.2.135:3478",
+        "privacy_policy": "https://cromadigit.blogspot.com/2025/05/hdownloader-player.html"
+    }
+}
