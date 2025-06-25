@@ -48,7 +48,7 @@
             "7205BCF45B9805728E730875A19458F0",
             "7205BCF45B9805728E730875A19458F0"
         ],
-        "double_ad_status": false,
+        "double_ad_status": true,
         "ads_status": true,
         "splash_ads_status": true,
         "is_facebook_first": true,
