@@ -50,7 +50,7 @@
         ],
         "double_ad_status": true,
         "ads_status": true,
-        "splash_ads_status": true,
+        "splash_ads_status": false,
         "is_facebook_first": false,
         "is_mid": true,
         "by_pass": true,
@@ -63,7 +63,7 @@
         "reels_videos_mix": "https://rajanikhana.github.io/mical/mix-reels.json",
         "reels_ad_counts": 3,
         "website_ad_status": false,
-        "website_ad_count": 50,
+        "website_ad_count": 1,
         "website_ad_list": [
             "https://earnonline1045.gamesdonut.com"
         ],
