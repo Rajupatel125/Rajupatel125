@@ -3,15 +3,15 @@
     "message": "Success",
     "data": {
         "g_banner": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Banner",
+            "ca-app-pub-5777648021562994/4528037365",
             "ca-app-pub-5777648021562994/4528037365"
         ],
         "g_int": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Interstitial",
+            "ca-app-pub-5777648021562994/4999333740",
             "ca-app-pub-5777648021562994/4999333740"
         ],
         "g_native": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Native",
+            "ca-app-pub-5777648021562994/6915345797",
             "ca-app-pub-5777648021562994/6915345797"
         ],
         "g_open": [
@@ -50,7 +50,7 @@
         ],
         "double_ad_status": true,
         "ads_status": true,
-        "splash_ads_status": false,
+        "splash_ads_status": true,
         "is_facebook_first": false,
         "is_mid": true,
         "by_pass": true,
