@@ -4,15 +4,15 @@
     "data": {
         "g_banner": [
             "ca-app-pub-5777648021562994/4528037365",
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Banner"
+            "ca-app-pub-5777648021562994/4528037365"
         ],
         "g_int": [
             "ca-app-pub-5777648021562994/4999333740",
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Interstitial"
+            "ca-app-pub-5777648021562994/4999333740"
         ],
         "g_native": [
             "ca-app-pub-5777648021562994/6915345797",
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Native"
+            "ca-app-pub-5777648021562994/6915345797"
         ],
         "g_open": [
             "/21753324030,23204693656/com.hmedia.hdownloaderplayer_AppOpen",
