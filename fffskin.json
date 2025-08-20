@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "message": "Success",
+    "data": {
+        "g_banner": [
+            "ca-app-pub-5777648021562994/4528037365",
+            "ca-app-pub-5777648021562994/4528037365"
+        ],
+        "g_int": [
+            "ca-app-pub-5777648021562994/4999333740",
+            "ca-app-pub-5777648021562994/4999333740"
+        ],
+        "g_native": [
+            "ca-app-pub-5777648021562994/6915345797",
+            "ca-app-pub-5777648021562994/6915345797"
+        ],
+        "g_open": [
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_AppOpen",
+            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_AppOpen"
+        ],
+        "fb_banner": [
+            ""
+        ],
+        "fb_int": [
+            "",
+            ""
+        ],
+        "fb_native": [
+            "",
+            ""
+        ],
+        "fb_native_banner": [
+            "",
+            ""
+        ],
+        "mid_fb_banner": [
+            "ca-app-pub-5777648021562994/4528037365"
+        ],
+        "mid_fb_int": [
+            "ca-app-pub-5777648021562994/4999333740",
+            "ca-app-pub-5777648021562994/4999333740"
+        ],
+        "mid_fb_native": [
+            "ca-app-pub-5777648021562994/6915345797",
+            "ca-app-pub-5777648021562994/6915345797"
+        ],
+        "mid_fb_native_banner": [
+            "ca-app-pub-5777648021562994/6915345797",
+            "ca-app-pub-5777648021562994/6915345797"
+        ],
+        "double_ad_status": true,
+        "ads_status": true,
+        "splash_ads_status": true,
+        "is_facebook_first": false,
+        "is_mid": true,
+        "by_pass": true,
+        "ads_count": 1,
+        "backword_ads_count": 1,
+        "streaming_video_api": "https://rajanikhana.github.io/mical/all-video-category.json",
+        "streaming_live_api": "https://rajanikhana.github.io/mical/video-category.json",
+        "in_video_ads_time": 30,
+        "reels_videos": "https://rajanikhana.github.io/mical/all-reels.json",
+        "reels_videos_mix": "https://rajanikhana.github.io/mical/mix-reels.json",
+        "reels_ad_counts": 3,
+        "website_ad_status": false,
+        "website_ad_count": 1,
+        "website_ad_list": [
+            "https://earnonline1045.gamesdonut.com"
+        ],
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "force_update": false,
+        "force_update_url": "",
+        "user": "username1",
+        "pass": "password1",
+        "wsRoom": "ws://142.93.223.217:8081",
+        "turn": "turn:139.59.2.135:3478",
+        "privacy_policy": "https://cromadigit.blogspot.com/2025/05/hdownloader-player.html"
+    }
+}
