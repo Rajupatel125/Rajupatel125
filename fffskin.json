@@ -45,13 +45,13 @@
             "E255A40BB7154E8F16160569357AFBA8"
         ],
         "mid_fb_native_banner": [
-            "ca-app-pub-5777648021562994/6915345797",
-            "ca-app-pub-5777648021562994/6915345797"
+            "E255A40BB7154E8F16160569357AFBA8",
+            "E255A40BB7154E8F16160569357AFBA8"
         ],
         "double_ad_status": true,
         "ads_status": true,
         "splash_ads_status": true,
-        "is_facebook_first": false,
+        "is_facebook_first": true,
         "is_mid": true,
         "by_pass": true,
         "ads_count": 1,
