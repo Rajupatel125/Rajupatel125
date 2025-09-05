@@ -3,20 +3,20 @@
     "message": "Success",
     "data": {
         "g_banner": [
-            "",
-            ""
+            "/21753324030,23204693656/com.topapps.ffskindiamond_Banner",
+            "/21753324030,23204693656/com.topapps.ffskindiamond_Banner"
         ],
         "g_int": [
-            "",
-            ""
+            "/21753324030,23204693656/com.topapps.ffskindiamond_Interstitial",
+            "/21753324030,23204693656/com.topapps.ffskindiamond_Interstitial"
         ],
         "g_native": [
-            "",
-            ""
+            "/21753324030,23204693656/com.topapps.ffskindiamond_Native",
+            "/21753324030,23204693656/com.topapps.ffskindiamond_Native"
         ],
         "g_open": [
-            "",
-            ""
+            "/21753324030,23204693656/com.topapps.ffskindiamond_AppOpen",
+            "/21753324030,23204693656/com.topapps.ffskindiamond_AppOpen"
         ],
         "fb_banner": [
             ""
