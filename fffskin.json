@@ -52,7 +52,7 @@
         "ads_status": true,
         "splash_ads_status": true,
         "is_facebook_first": false,
-        "is_mid": true,
+        "is_mid": false,
         "by_pass": true,
         "ads_count": 1,
         "backword_ads_count": 1,
