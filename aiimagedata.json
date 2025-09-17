@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "categories": ["All", "Retro"],
+      "title": "Couple Polaroid",
+      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/couple_polaroid.jpg",
+      "prompt": "A warm polaroid photo of a happy couple, soft lighting, film grain",
+      "hot": true
+    },
+    {
+      "id": "2",
+      "categories": ["All", "Cinematic"],
+      "title": "Bride with Flowers",
+      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/bride_flowers.jpg",
+      "prompt": "Cinematic portrait of a woman in sari holding bouquet with soft window light",
+      "hot": false
+    },
+    {
+      "id": "3",
+      "categories": ["All", "Travel", "Retro"],
+      "title": "Hawa Mahal Fashion",
+      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hawa_mahal.jpg",
+      "prompt": "Fashion portrait in front of Hawa Mahal, vibrant colors, full body shot",
+      "hot": false
+    }
+  ]
+}
