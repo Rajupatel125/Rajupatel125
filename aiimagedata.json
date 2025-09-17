@@ -4,24 +4,32 @@
       "id": "1",
       "categories": ["All", "Retro"],
       "title": "Couple Polaroid",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/couple_polaroid.jpg",
-      "prompt": "A warm polaroid photo of a happy couple, soft lighting, film grain",
+      "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/couple1.webp",
+      "prompt": "Photo of a couple in 1970s Bollywood fashion, wearing colorful vintage outfits, cinematic poses, natural skin texture, professional photography lighting.",
       "hot": true
     },
     {
       "id": "2",
       "categories": ["All", "Cinematic"],
       "title": "Bride with Flowers",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/bride_flowers.jpg",
-      "prompt": "Cinematic portrait of a woman in sari holding bouquet with soft window light",
+      "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/couple2.webp",
+      "prompt": "Photo of a couple standing in front of Taj Mahal at sunset, elegant outfits, warm lighting, cinematic atmosphere, professional photography.",
       "hot": false
     },
     {
       "id": "3",
       "categories": ["All", "Travel", "Retro"],
       "title": "Hawa Mahal Fashion",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hawa_mahal.jpg",
-      "prompt": "Fashion portrait in front of Hawa Mahal, vibrant colors, full body shot",
+      "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/couple3.webp",
+      "prompt": "Photo of a couple celebrating Holi, colorful powder in the air, smiling faces, vibrant atmosphere, natural skin tones, photography lighting.",
+      "hot": false
+    }
+    {
+      "id": "4",
+      "categories": ["All", "Travel", "Retro"],
+      "title": "Hawa Mahal Fashion",
+      "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/couple4.webp",
+      "prompt": "Photo of a man in sherwani and an Indian woman in lehenga, standing under floral mandap decorations, warm tones, cinematic photography.",
       "hot": false
     }
   ]
