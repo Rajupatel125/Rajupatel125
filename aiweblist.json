@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "name": "Example Site",
+      "link": "https://www.example.com",
+      "logo": "https://www.example.com/assets/logo-example.png"
+    },
+    {
+      "name": "My Blog",
+      "link": "https://blog.example.com",
+      "logo": "https://blog.example.com/images/blog-logo.png"
+    },
+    {
+      "name": "Shop Now",
+      "link": "https://shop.example.com/product/123",
+      "logo": "https://cdn.example.com/logos/shopnow.svg"
+    }
+  ]
+}
