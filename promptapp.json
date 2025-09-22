@@ -3,16 +3,16 @@
     "message": "Success",
     "data": {
         "g_banner": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Banner"
+            "ca-app-pub-3940256099942544/9214589741"
         ],
         "g_int": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Interstitial"
+            "ca-app-pub-3940256099942544/1033173712"
         ],
         "g_native": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_Native"
+            "ca-app-pub-3940256099942544/2247696110"
         ],
         "g_open": [
-            "/21753324030,23204693656/com.hmedia.hdownloaderplayer_AppOpen"
+            "ca-app-pub-3940256099942544/9257395921"
         ],
         "fb_banner": [
             ""
@@ -30,7 +30,7 @@
             "ca-app-pub-5777648021562994/4528037365"
         ],
         "mid_fb_int": [
-            "ca-app-pub-5777648021562994/4999333740"
+            "484FCB892B191B26A5168F976E818512"
         ],
         "mid_fb_native": [
             "ca-app-pub-5777648021562994/6915345797"
