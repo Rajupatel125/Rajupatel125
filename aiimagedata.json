@@ -1,439 +1,442 @@
 {
-  "categories": [
-    {
-      "name": "Retro",
-      "total_avatars": 20,
-      "views": 3890,
-      "showcase": [
+    "categories": [
         {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (1).jpg",
-          "prompt": "This is my face and body. Please make a half-body portrait of me without changing my facial features and appearances, around 29 years old, with fair white skin and a beautiful body. She has a smiling softly with a closed-mouth smile (no teeth visible), while looking straight at the camera. Her long, wavy black hair flows naturally. She is wearing an elegant off-shoulder black gown with black opera gloves. She is standing gracefully slightly toward to left, holding a white birthday cake decorated with medium-sized straight golden candles that have spiral patterns, proportionate to the cake. And her right hand is posing gracefully under her chin. She wears a subtle necklace and a bracelet as her only accessory. The scene is set in a professional indoor photo studio with plain background and warm golden hour sunlight casting dramatic shadow on a plain wall ensuring the strong shadow of the face on the wall is visible ratio 9:16 overall cinematic tone."
+            "name": "Retro",
+            "total_avatars": 20,
+            "views": 3890,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (1).jpg",
+                    "prompt": "This is my face and body. Please make a half-body portrait of me without changing my facial features and appearances, around 29 years old, with fair white skin and a beautiful body. She has a smiling softly with a closed-mouth smile (no teeth visible), while looking straight at the camera. Her long, wavy black hair flows naturally. She is wearing an elegant off-shoulder black gown with black opera gloves. She is standing gracefully slightly toward to left, holding a white birthday cake decorated with medium-sized straight golden candles that have spiral patterns, proportionate to the cake. And her right hand is posing gracefully under her chin. She wears a subtle necklace and a bracelet as her only accessory. The scene is set in a professional indoor photo studio with plain background and warm golden hour sunlight casting dramatic shadow on a plain wall ensuring the strong shadow of the face on the wall is visible ratio 9:16 overall cinematic tone."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (2).jpg",
+                    "prompt": "Create a glamorous birthday photoshoot portrait with flash. The backdrop is a plain neutral wall illuminated by a round spotlight, casting a sharp, dramatic shadow behind me for cinematic effect. I am posed in profile, leaning slightly forward as if blowing out the candles on a strawberry cake held delicately with both hands. The cake is topped with lit number candles '30', their warm glow enhancing the celebratory mood. I am wearing an elegant pink ball gown."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (3).jpg",
+                    "prompt": "This is a photo of me. Please create a cinematic, hyper-realistic studio portrait of me. She is in side profile, facing to the left, with her eyes closed and a serene expression. Her dark hair is styled in long, gentle waves flowing down her back. She holds two lit candles shaped like the numbers '29' in her right hand, positioned in front of her face. She is wearing a form-fitting, elegant red dress with ruched sleeves. The scene is enveloped in a monochromatic, moody red palette, with a sharp spotlight creating a bright circular white-to-gray backdrop directly behind her head. Dramatic low-key lighting with strong shadows and high contrast, emphasizing her silhouette. Shot on professional camera, shallow depth of field, cinematic bokeh."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (4).jpg",
+                    "prompt": "This is a photo of me. Please create a full-body 9:16 vertical birthday portrait of a stunning young woman, around 29 years old. She has long, silky, naturally black hair in soft cascading waves with a deep red satin ribbon headpiece. Makeup is natural: light foundation, soft blush, defined brows, subtle eyeliner, long lashes, nude-pink lips. She wears a sleeveless, fit-and-flare black velvet mini dress with a sweetheart neckline and tulle hem. On her feet are glittering red ankle-strap heels. Around her neck is a pearl choker. She holds a round strawberry birthday cake with lit '29' candles on a white plate in her left hand and a bunch of glossy red balloons with silver ribbons in her right hand. Extra balloons are scattered on the floor. She sits on a sculpted white pedestal with embossed heart patterns. Studio backdrop is white, with a bright key light and soft spotlight behind her creating a subtle halo. High-key, sharp focus, clean, vibrant reds and soft skin tones."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (5).jpg",
+                    "prompt": "This is my face and body. Please make a full-body portrait of me without changing my facial features and appearances, around 29 years old, with fair white skin and a beautiful body. She smiles softly (closed-mouth), looking straight at the camera. Her long, wavy black hair flows naturally. She wears an elegant soft pink off-shoulder gown made of layered tulle and organza with 3D floral details on the shoulders and a flowing train. She squats gracefully slightly toward the left, holding a white birthday cake decorated with golden spiral candles. Behind her, large floating pink number balloons '29' are tied with thin strings. She wears soft pink pointed heels and a subtle necklace. The setup is a clean gray studio background, evenly lit. Soft shadows add depth. Festive yet elegant, high-res fashion photography style with a smooth matte finish. 9:16."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (5).jpg",
+                    "prompt": "This is a photo of me. Please create a cinematic, high-quality portrait of me without changing my facial features and appearances. Joyful birthday celebration scene with me sitting on the floor in a bright studio space, wearing a flowing white dress with wide sleeves. I am smiling brightly while holding a confetti popper that has just exploded, filling the air with sparkling rose-gold and metallic confetti. Around me are several shiny rose-gold balloons scattered on the floor. In front sits a white birthday cake decorated with pink and gold accents, topped with metallic '29' candles. The floor and background are covered with glittering confetti, creating a glamorous vibe. Lighting is soft, bright, and celebratory, highlighting the joyful expression and festive mood."
+                }
+            ]
         },
         {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (2).jpg",
-          "prompt": "Create a glamorous birthday photoshoot portrait with flash. The backdrop is a plain neutral wall illuminated by a round spotlight, casting a sharp, dramatic shadow behind me for cinematic effect. I am posed in profile, leaning slightly forward as if blowing out the candles on a strawberry cake held delicately with both hands. The cake is topped with lit number candles "30", their warm glow enhancing the celebratory mood. I am wearing an elegant pink ball gown."
+            "name": "Retro Couple Prompt",
+            "total_avatars": 26,
+            "views": 15000,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (1).jpg",
+                    "prompt": "Generate a moody retro-inspired close-up with cinematic grain and soft brightness. The girl wears a blue retro saree with wavy curls blowing in the wind, a small flower pinned in her hair. The guy in a white Chinese collar kurta tucks a loose strand of her hair behind her ear while gazing into her eyes. The romantic windy atmosphere enhances the essence of a 90s film scene, with deep shadows adding dramatic artistry."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (2).jpg",
+                    "prompt": "Convert a 4k HD realistic stunning portrait.Face must be same as I upload no alternation 100 percent same. Female:woman with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent, elegant red saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her man. Male: Man wear a yellow punjabi and white pajama and a watch in her hand. He is looking towards her, and his hand is on her shoulder.Background: In the background is a 'Maa Durga',', blurred festive Scenery and illuminated by a warm light source from the right, creating a distinct, soft-edged si of her, the overall mood is retro"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (3).jpg",
+                    "prompt": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The girl should be draped in a perfect purple chiffon, Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, with silky hair and a small flower tucked visibly into her hair, enhanced by a windy, romantic atmosphere. She is standing against a wall with the shadow of a tree ,where deep shadows and dramatic contrasts add mystery and artistry to the scene, and the man in matching cloths, romantic pose."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (4).jpg",
+                    "prompt": "scene with this reference pic that the girl sitting on a wooden bench and the boy standing behind her, gently kissing her on the cheek. She wears a white sleeveless blouse paired with a red sareewith white flowers printed, and her wavy hair is tousled by the wind, holding a handful of roses. The wooden bench and the road are scattered with rose petals, evoking a nostalgic cinematic atmosphere.face should be the same of both girl anf boy"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (5).jpg",
+                    "prompt": "A young couple is taking a mirror selfie in a softly lit hallway. Both are wearing matching oversized white sweatshirts with black text printed on the sleeves. The girl is holding the phone with one hand, smiling gently, while the boy stands behind her with his arm wrapped, around her shoulders, resting his chin near her head. The atmosphere feels cozy, warm, and affectionate, highlighting their bond and matching outfits in a minimalist, pastel-toned setting."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (6).jpg",
+                    "prompt": "Create a retro, vintage-inspired image – grainy yet bright – based on the reference picture. The girl should be draped in a perfect red, Pinterest-style aesthetic retro saree, and the guy should be wearing a white kurta with a Pinterest-style Chinese collar in a retro look. The vibe must capture the essence of a 90s movie brown-haired baddie, with wavy curls and a small flower tucked visibly into her hair, and the hair should fly enhanced by a windy, romantic atmosphere.The guy should be holding her waist and looking deep into her eyes. They stand against a solid wall, where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. They should be looking at each other."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (7).jpg",
+                    "prompt": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The girl should be draped in a perfect purple chiffon, Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, with silky hair and a small flower tucked visibly into her hair, enhanced by a windy, romantic atmosphere. She is standing against a wall with the shadow of a tree ,where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. Her pose should suggest that she is adjusting her hair. And the boy must wear black shirt with suitable pants add watch he must be behind the girl"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (8).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown Pinterest aesthetic retro saree for girl and suite for boy. It must feel like a 90s movie black hair baddie with A small flower tuck visibly in long wavy hair and romanticising windy environment. The girl and boy standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with a golden tones of evoking a sunset or golden hour glow. The background is minimalist and slightly textured the expression on her face is moody, calm yet happy and introspective."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (9).jpg",
+                    "prompt": "Create a retro, vintage-inspired image – grainy yet bright – based on the reference picture. The girl should be draped in a perfect red, Pinterest-style aesthetic retro saree, and the guy should be wearing a white kurta with a Pinterest-style Chinese collar in a retro look. The vibe must capture the essence of a 90s movie brown-haired baddie, with wavy curls and a small flower tucked visibly into her hair, and the hair should fly enhanced by a windy, romantic atmosphere.The guy should be holding her waist and looking deep into her eyes. They stand against a solid wall, where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. They should be looking at each other."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (10).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown Pinteresty aesthetic retro saree for girl and 582 suite for boy. It must feel like a 90s movie red hair baddie with a small flower tuck visibly in the curls and windy environment romanticising for girl. The girl and boy is standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (11).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the refrence picture but draped in a perfect brown colour pinteresty aesthetic saaree. 8t must feel like a 90s movie black and brown mixed hair baddie with a small flower tuck visible in wavy curls romenticising widly environment for the girl and a black cort suit for the boy. The couple is standing against the solid wall deep shadows and contrasting drama creating mystrious and artistic atmosphere where lighting is warm with a golden tones"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (12).jpg",
+                    "prompt": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. 510 The girl should be draped in a perfect off-white cotton saree with a red blouse. Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark brown-haired baddie, enhanced by a windy, romantic atmosphere and the guy should be wearing an off white kurta She stands against an old wooden door, where deep shadows and dramatic contrasts add mystery and artistry to the scene"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (13).jpg",
+                    "prompt": "with cinematic grain and soft brightness. The girl wears a blue retro saree with wavy curls blowing in the wind, a small flower pinned in her hair. The guy in a white Chinese collar kurta tucks a loose strand of her hair behind her ear while gazing into her eyes. The romantic windy atmosphere enhances the essence of a 90s film scene,"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (14).jpg",
+                    "prompt": "Open Gemini Transform this couple photo into a vibrant retro 90s Bollywood-style portrait. The woman is wearing white translucent saree with red rose behind on her right ear and dramatic eyeliner, red lipstick, and voluminous 90s-style hair. The man is wearing white translucent shirt, Formal pants, and classic sunglasses. The ovefall mood is romantic and cinematic, with soft glowing light, film grain, and a slightly faded vintage color palette. The background is plain, warm toned wall, illuminated"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (15).jpg",
+                    "prompt": "Create a realistic couple photograph by ensuring the boy and girl are placed together and Both of them are in each other's arms, Draped a plain lavender chiffon saree with pink sleeveless blouse to girl and boy wear a black formal dress. Girl wear a small diamond mangalsutra. It must feel like 90's movie dark black hair with a small red color flower tucked into her bun and romanticizing windy environment. The background is moonlit beach."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (16).jpg",
+                    "prompt": "A royal and elegant couple portrait in a traditional architectural archway. The man is wearing a sharp black tailored suit with a confident yet warm expression, standing tall.The woman is dressed in a deep maroon saree with golden embroidery, styled gracefully with heavy bridal jewelry - necklace, earrings, and maang tikka. She looks regal, gazing at him with elegance and"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (17).jpg",
+                    "prompt": "create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown saree fir girl and black suit for boy. It must feel like a 90s movie brown currly hair baddie with a small flower tucked visibly in the wavy curls and windy environment romanticising for girl. The girl and boy is standing against the solid wall deep shadows and contrast drama creating a mysterious and artistic atmosphere with heavy rain"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (18).jpg",
+                    "prompt": "Convert this image into A full-body, ultra-realistic photo of a handsome young man and a beautiful young woman, both professional models, posing as lovers. The man is wearing a sharp, modern black suit. The woman is wearing an elegant dark blue silk sari. He wears a luxury watch, and she wears delicate jewelry. They are in a dark studio with a black background. The photo is ultra-premium quality, 8K resolution, with a luxurious and romantic mood"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (19).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the reference picture with the girl draped in a perfect brown Pinteresty aesthetic retro saree and the boy ina brown suit, feeling likea 90s movie with black hair baddie style and a small flower tucked visibly into the curls, romanticisinga windy environment for the girl the girl & boy are standing againsta solid wall with deep shadows contrast drama, creatinga mysterious and artistic atmosphere."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (20).jpg",
+                    "prompt": "Upload two photos of the couple and generate a full-size hyper-realistic cinematic portrait of them standing together in the rain. Keep the faces exactly the same as the uploaded photos for originality. The girl is wearing a beautiful saree, fully drenched, with natural wet-look details and raindrops on her skin and fabric. She is looking forward with a soft, romantic expression. The boy, wearing a soaked white open shirt, is standing slightly behind her, gently holding her by the waist, creating an intimate and protective pose. Both are smiling and enjoying the rain moment with love and warmth. The atmosphere should be cinematic: visible raindrops, water glistening on clothes and skin, soft blurred background with glowing streetlights or a dreamy backdrop. Make the overall scene intimate, romantic, vibrant, and full of emotions — like a Bollywood rain sequence."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (21).jpg",
+                    "prompt": "Convert this image into a Pinterest-style aesthetic with a retro saree and 3-piece suit, evoking a 90s movie feel, looking eachother smiling. The couple should wear black and brown outfits, with a flower tucked in the girl's hair, standing against a deep wall with sunlight shadows in golden tones. I want same face for both with no alteration 100 percent same face."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (22).jpg",
+                    "prompt": "He will be holding my saree pallu in his hand, dressed in a retro style with a black shirt, carrying a Dev Anand-inspired look. I will be in a perfect plain chiffon saree, red in color, giving a Pinteresty aesthetic retro vibe. Think of a 90s movie feel — dark brown wavy curly hair with a small flower tucked visibly into the curls, romanticizing in a windy environment. I’ll be standing against a solid wall with deep shadows and contrast drama, creating a mysterious and artistic atmosphere. The lighting will be warm with golden tones, evoking a sunset or golden hour glow. The background will stay minimalistic and slightly textured, while my expression will be moody, calm, yet happy and introspective."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (23).jpg",
+                    "prompt": "Create a retro, vintage-inspired image – grainy yet radiant – of a couple in a romantic pose. The girl is draped in a deep purple saree with subtle golden borders, exuding Pinterest-style retro elegance. Her wavy curls flow softly, a bright red flower tucked into her hair adding a bold, 90s charm. The boy, dressed in a matching purple retro shirt, stands close beside her, gently holding the edge of her saree pallu in a tender gesture, while gazing at her with affection. The girl looks back at him with a soft, graceful smile, capturing timeless chemistry. They stand against a plain wall where warm light and deep shadows create dramatic contrasts, enhancing the moody, cinematic essence. A gentle breeze lifts the saree slightly, adding motion and romantic allure, evoking the enchantment of a classic vintage movie scene."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (24).jpg",
+                    "prompt": "Create a retro, vintage-inspired image – grainy yet radiant – of a couple in a romantic pose. The girl is draped in a deep purple saree with subtle golden borders, exuding Pinterest-style retro elegance. Her wavy curls flow softly, a bright red flower tucked into her hair adding a bold, 90s charm. The boy, dressed in a matching purple retro shirt, stands close beside her, gently holding the edge of her saree pallu in a tender gesture, while gazing at her with affection. The girl looks back at him with a soft, graceful smile, capturing timeless chemistry. They stand against a plain wall where warm light and deep shadows create dramatic contrasts, enhancing the moody, cinematic essence. A gentle breeze lifts the saree slightly, adding motion and romantic allure, evoking the enchantment of a classic vintage movie scene."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (25).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown Pinteresty aesthetic retro saree for girl and 582 suite for boy. It must feel like a 90s movie red hair baddie with a small flower tuck visibly in the curls and windy environment romanticising for girl. The girl and boy is standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (26).jpg",
+                    "prompt": "Create a retro, vintage-inspired image – grainy yet luminous – of a romantic couple. The girl is draped in a flowing saree with perfect Pinterest-style elegance, her wavy curls adorned with a small flower tucked into her hair. The boy stands close beside her, dressed in a matching retro shirt, their outfits color-coordinated to amplify the cinematic harmony. They share a soft, romantic pose – the girl looking ahead with subtle grace while the boy gazes at her with intensity, evoking the aura of a 90s movie couple. A warm golden light casts dramatic shadows on the solid wall behind them, enhancing the mood with depth and mystery. The windy atmosphere lifts the saree slightly, adding motion and romantic charm, creating an enchanting, timeless cinematic effect."
+                }
+            ]
         },
         {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (3).jpg",
-          "prompt": "This is a photo of me. Please create a cinematic, hyper-realistic studio portrait of me. She is in side profile, facing to the left, with her eyes closed and a serene expression. Her dark hair is styled in long, gentle waves flowing down her back. She holds two lit candles shaped like the numbers "29" in her right hand, positioned in front of her face. She is wearing a form-fitting, elegant red dress with ruched sleeves. The scene is enveloped in a monochromatic, moody red palette, with a sharp spotlight creating a bright circular white-to-gray backdrop directly behind her head. Dramatic low-key lighting with strong shadows and high contrast, emphasizing her silhouette. Shot on professional camera, shallow depth of field, cinematic bokeh."
+            "name": "Girls Photo Editing Prompt",
+            "total_avatars": 6,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (1).jpg",
+                    "prompt": "A moody, cinematic portrait of a woman wearing Cap backwords, sitting on a wooden chair in a dimly lit room. She is wearing a loose, cream-colored blouse with ruffles, looking contemplative and lost in thought. Around her, sheets of paper are dramatically suspended in mid-air, as if caught in motion, creating a surreal and dreamlike atmosphere. The lighting casts soft shadows on the wall, emphasizing the mysterious and artistic mood of the scene"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (2).jpg",
+                    "prompt": "High-contrast black & white photo in a modern art gallery. Candid stolen shot of a young woman standing still among a blurred moving crowd. Slightly slanted angle, face partly turned (not fully side view/camera). 3/4 body shot (mid-thigh up). Wearing a long dark coat, hands in pockets. Behind her: framed Banks artworks arranged in a grid."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (3).jpg",
+                    "prompt": "Hands in Pockets - Relaxed Authority. A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). She stands tall in a dark moody studio, surrounded by soft drifting smoke under a dramatic spotlight.Outfit:Oversized slate-blue luxury suit with wide-leg trousers, paired with a slightly unbuttoned white silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (4).jpg",
+                    "prompt": "A low-angle, black and white photograph of a me(based on uploaded refrence) in a long black trench coat, standing amidst a flurry of pigeons flying overhead. The woman is looking directly at the viewer with a serious expression. The pigeons are blurred and in various stages of flight, creating a dynamic and slightly ominous atmosphere. The background is a stark, overcast sky and the hint of trees at the bottom. The overall mood is mysterious and dramatic."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (5).jpg",
+                    "prompt": "A woman (photo uploaded) sitting in a quiet classroom, leaning casually on a wooden school chair with her legs crossed. She has shoulder-length black hair parted in the middle, soft natural features, and a calm neutral expression on her face. She is wearing a loose navy blue sweatshirt, light beige chino pants, and classic black-and-white Converse sneakers. Her left arm rests on the desk while her right hand drops casually to the side. Behind her is a plain off-white classroom wall with visible wear and a slightly dirty texture. On the wall are several pinned papers, photos, and colorful sticky notes arranged in a grid. Among the papers, one clearly shows the printed word NewAiPrompt.com. positioned above her head. Sunlight enters sharply from the right side of the frame, creating a triangular beam of light on the wall and casting a strong shadow of her head and shoulders. The contrast between light and shadow is dramatic, cinematic, and natural, with a warm late-afternoon tone. The overall style feels candid and realistic, similar to a film photograph: slightly grainy, soft vintage texture, natural imperfections, not overly polished or digital."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (6).jpg",
+                    "prompt": "Hyper-realistic portrait in an artistic editorial aesthetic. Capture the person from the reference image with complete fidelity to their real features: an oval-shaped face with a continuous jawline, fair skin with natural freckles and realistic micro-details, almond-shaped hazel-green eyes with an introspective shine, thick arched eyebrows, a straight nose with a rounded tip, medium lips slightly parted with natural texture, and dark brown hair styled loosely swept back. Intense yellow flowers in Butter Vivid Yellow (#F6D860) cross the foreground, partially covering the face, with vibrant, luminous saturation that creates poetic layers. Cinematic side lighting with a strong golden-orange rim light outlines the silhouette. The light cuts through as if coming from Venetian blinds, casting stripes of shadow and glow across the face and flowers, producing an intimate and poetic effect. An analog atmosphere with subtle photographic noise and fine film-like grain evokes the feel of analog photography. A contrasting dark background enhances the composition, styled as a contemporary fashion magazine editorial. Rendered in extreme 8K quality, with photographic sharpness, realistic depth, and a poetic atmosphere."
+                }
+            ]
         },
         {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (4).jpg",
-          "prompt": "This is a photo of me. Please create a full-body 9:16 vertical birthday portrait of a stunning young woman, around 29 years old. She has long, silky, naturally black hair in soft cascading waves with a deep red satin ribbon headpiece. Makeup is natural: light foundation, soft blush, defined brows, subtle eyeliner, long lashes, nude-pink lips. She wears a sleeveless, fit-and-flare black velvet mini dress with a sweetheart neckline and tulle hem. On her feet are glittering red ankle-strap heels. Around her neck is a pearl choker. She holds a round strawberry birthday cake with lit "29" candles on a white plate in her left hand and a bunch of glossy red balloons with silver ribbons in her right hand. Extra balloons are scattered on the floor. She sits on a sculpted white pedestal with embossed heart patterns. Studio backdrop is white, with a bright key light and soft spotlight behind her creating a subtle halo. High-key, sharp focus, clean, vibrant reds and soft skin tones."
+            "name": "Boy Model Photoshoots",
+            "total_avatars": 6,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (1).jpg",
+                    "prompt": "A stylish fashion editorial photo of a male model wearing an oversized white sweatshirt and matching white sweatpants, paired with clean white sneakers. Set against a soft red studio backdrop with diffused cinematic lighting that enhances fabric textures. Futuristic editorial style. The model is sitting elegantly, head slightly tilted, posture relaxed yet stylish."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (2).jpg",
+                    "prompt": "A sleek fashion editorial photo of a male model wearing a fitted black leather jacket with matching tailored black trousers, paired with chunky black boots. Background: a deep blue gradient studio backdrop with sharp cinematic lighting, emphasizing metallic leather textures. Futuristic editorial vibe. The model stands tall with one hand in his pocket, gazing directly into the camera with a confident stance."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (3).jpg",
+                    "prompt": "A bold fashion editorial photo of a male model in an oversized emerald green hoodie paired with loose beige cargo pants and crisp white sneakers. A warm orange-toned studio backdrop with soft diffused cinematic lighting highlights the folds of fabric. Editorial streetwear aesthetic. The model sits cross-legged on the floor, gazing upward with a thoughtful expression."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (4).jpg",
+                    "prompt": "A refined fashion editorial photo of a male model wearing a tailored cream blazer layered over a soft grey turtleneck, slim-fit cream trousers, and brown loafers. A minimalist light beige studio backdrop with soft golden cinematic lighting creates a futuristic yet timeless editorial atmosphere. The model leans slightly against a wall, arms crossed, calm and composed."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (5).jpg",
+                    "prompt": "A striking fashion editorial photo of a male model dressed in a bold red satin bomber jacket paired with relaxed-fit black trousers and sleek black sneakers. Background: a dramatic purple-toned studio backdrop with cinematic rim lighting that accentuates glossy satin textures and contrasts. The model crouches low with one arm resting on his knee, head tilted slightly, exuding intensity."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (6).jpg",
+                    "prompt": "A contemporary fashion editorial photo of a male model in a pastel lavender oversized sweatshirt with matching joggers, paired with chunky white sneakers. A soft mint-green studio backdrop with dreamy cinematic lighting emphasizes color harmony and smooth textures. The model reclines casually on a modern chair, one leg draped over the armrest, projecting effortless confidence."
+                }
+            ]
         },
         {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (5).jpg",
-          "prompt": "This is my face and body. Please make a full-body portrait of me without changing my facial features and appearances, around 29 years old, with fair white skin and a beautiful body. She smiles softly (closed-mouth), looking straight at the camera. Her long, wavy black hair flows naturally. She wears an elegant soft pink off-shoulder gown made of layered tulle and organza with 3D floral details on the shoulders and a flowing train. She squats gracefully slightly toward the left, holding a white birthday cake decorated with golden spiral candles. Behind her, large floating pink number balloons "29" are tied with thin strings. She wears soft pink pointed heels and a subtle necklace. The setup is a clean gray studio background, evenly lit. Soft shadows add depth. Festive yet elegant, high-res fashion photography style with a smooth matte finish. 9:16."
+            "name": "Romantic Wedding Couple Prompts",
+            "total_avatars": 4,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (1).jpg",
+                    "prompt": "Couple embracing in a garden filled with soft blooming flowers. The man wears a beige suit with a white shirt and floral boutonnière, while the woman in a delicate lace wedding dress with puff sleeves hugs him from behind, resting her head gently on his shoulder. Natural daylight, pastel tones, dreamy and romantic atmosphere, soft focus with warm vintage color grading."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (2).jpg",
+                    "prompt": "A bride and groom standing in a sunlit meadow surrounded by wildflowers. The groom in a cream linen suit with a pastel tie and boutonnière, while the bride in a lace gown with puff sleeves leans into him, her arms gently wrapped around his waist. Golden-hour glow, soft focus, painterly pastel tones, ethereal and timeless atmosphere."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (3).jpg",
+                    "prompt": "Couple in love sharing a quiet embrace in a rose garden. The groom wears a tailored beige suit with a soft floral accent, while the bride in a vintage-inspired lace wedding dress with puff sleeves rests her head on his shoulder. Gentle daylight, romantic haze, muted pastel palette, with a dreamy film-like warmth."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (4).jpg",
+                    "prompt": "Newlyweds holding each other in a blooming orchard. The man dressed in a classic beige suit with an ivory boutonnière, and the woman in a flowing lace gown with puff sleeves hugs him tenderly from behind. Delicate pastel blossoms all around, natural light, soft cinematic blur, and a nostalgic, vintage romance aesthetic."
+                }
+            ]
         },
         {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlbirthday (5).jpg",
-          "prompt": "This is a photo of me. Please create a cinematic, high-quality portrait of me without changing my facial features and appearances. Joyful birthday celebration scene with me sitting on the floor in a bright studio space, wearing a flowing white dress with wide sleeves. I am smiling brightly while holding a confetti popper that has just exploded, filling the air with sparkling rose-gold and metallic confetti. Around me are several shiny rose-gold balloons scattered on the floor. In front sits a white birthday cake decorated with pink and gold accents, topped with metallic "29" candles. The floor and background are covered with glittering confetti, creating a glamorous vibe. Lighting is soft, bright, and celebratory, highlighting the joyful expression and festive mood."
+            "name": "Magical Rooftop in Istanbul",
+            "total_avatars": 9,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (1).jpg",
+                    "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a yellow & pink saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (2).jpg",
+                    "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing an amazing saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (3).jpg",
+                    "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a yellow saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (4).jpg",
+                    "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a red & black gradient saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (5).jpg",
+                    "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a yellow dress saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (6).jpg",
+                    "prompt": "A hyper-realistic 8K close-up portrait of a woman sitting on a rooftop in Istanbul, Turkey. She wears a flowing red dress spreading dramatically in the wind, surrounded by white pigeons in motion. The background shows Istanbul’s skyline at sunset glowing with golden aura. Cinematic lighting, ultra-sharp detail, dreamy atmosphere."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (7).jpg",
+                    "prompt": "8K fashion editorial close-up of a woman on a rooftop in Istanbul, wearing a sleek modern white dress with minimalist design. Her hair moves with the wind, white pigeons fly around her, and the Istanbul skyline glows behind with a magical pastel twilight. Styled like a Vogue magazine shoot, soft focus, cinematic depth of field."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (8).jpg",
+                    "prompt": "8K wide-angle cinematic rooftop shot in Istanbul. The woman wears a flowing royal blue gown that spreads widely in the wind. Pigeons fly overhead, and the city skyline sparkles in the background with a dreamy enchanted glow. Photographed in an epic, wide cinematic style with dramatic lens flare."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (9).jpg",
+                    "prompt": "8K monochrome black-and-white rooftop portrait in Istanbul. The woman wears a striking black gown with sharp flowing lines. White pigeons create strong contrast as they fly across the moody skyline. Styled like fine art photography, high contrast, dramatic shadows, timeless aesthetic."
+                }
+            ]
+        },
+        {
+            "name": "Diwali Prompts for Boy",
+            "total_avatars": 6,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (1).jpg",
+                    "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is sitting gracefully, holding a decorated brass thali filled with lit diyas (oil lamps)in both hands.Her head is slightly tilted, with a gentle smile and expressive eyeslooking towards the camera. The background features warmglowing fairy lights, candles, and a blurred god laxmi idol, creating a devotional festive vibe. Foreground bokeh of alowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style. For making this photo use the above photo and don't change her face it should be exact same 100%"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (2).jpg",
+                    "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is holding a lit sparkler in his hands with a joyful expression, captured from a slightly different camera angle. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (3).jpg",
+                    "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is bending down and carefully making a colorful rangoli on the floor with a focused yet gentle smile, captured from a slightly different camera angle. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (4).jpg",
+                    "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is sitting next to a collection of firecrackers such as Rocket, Anar (Fountain), Chakri (Ground Spinner), Sutli Bomb, Chakrabom, Super Star Crackling, Flashing Diamonds, Safe & Sound Crackers, and Fuljhadi. He is resting one hand on the pile of crackers with a relaxed expression, captured from a slightly different camera angle. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (5).jpg",
+                    "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is standing on the roof of his house, gently releasing and blowing a glowing sky lantern into the night sky, captured from a slightly different camera angle. The background features warm glowing fairy lights, distant houses with candles, and a festive atmosphere. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (6).jpg",
+                    "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is kneeling down and carefully placing lit diyas around the floor and windowsill, with a gentle smile on his face. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
+                }
+            ]
+        },
+        {
+            "name": "Navratri AI Photo for Girl",
+            "total_avatars": 16,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (1).jpg",
+                    "prompt": "Beautiful woman extract face from image playing dandiya with joyful abandon. She has a bright smile, her hair flying as she twirls, holding decorated dandiya sticks, dressed in a colorful, traditional ghagra choli with intricate embroidery and mirror work. The background is a lively blurred scene of a nighttime Navratri festival with other dancers, twinkling lights, and festive decorations. The image is captured from a slightly low angle, emphasizing her dynamic movement."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (2).jpg",
+                    "prompt": "A stunning 4K portrait of a radiant young woman dancing dandiya at a Navratri festival. Her parrot-green ghagra choli with mirror work glitters under the festive lights. She twirls gracefully, hair flying, her joyful smile illuminated. She holds decorated dandiya sticks in mid-motion, surrounded by blurred dancers, glowing lanterns, and a vibrant nighttime celebration."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (3).jpg",
+                    "prompt": "A lively 4K festival scene of a beautiful woman immersed in Garba dance. Dressed in a fiery red embroidered ghagra choli with shimmering mirror details, she beams with delight while spinning, dandiya sticks raised. The background glows with colorful string lights and other dancers in motion, creating a sense of energy and celebration."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (4).jpg",
+                    "prompt": "A dynamic 4K low-angle capture of a young woman playing dandiya with passion and joy. Her outfit is a sunshine yellow ghagra choli richly embroidered with silver and mirror accents. She laughs brightly, hair caught mid-swing as she twirls, dandiya sticks flashing in her hands. The blurred Navratri fairground glimmers with twinkling lights and festive décor."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (5).jpg",
+                    "prompt": "A cinematic 4K action shot of a glowing woman enjoying dandiya at Navratri. Her emerald green ghagra choli sparkles with intricate embroidery, reflecting the stage lights. She is caught mid-spin, smiling with abandon, her sticks clashing in rhythm. Behind her, the night is filled with dancers, lanterns, and strings of golden fairy lights."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (6).jpg",
+                    "prompt": "A vibrant 4K festival portrait of a beautiful woman dancing Garba. She wears a flowing magenta pink ghagra choli with ornate embroidery and mirror work that glistens as she moves. Her joyful expression and playful twirl make her the heart of the scene, dandiya sticks in motion. The background is softly blurred, alive with lights, decorations, and fellow dancers in traditional attire."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (7).jpg",
+                    "prompt": "A beautiful woman [exact face upload the image] in Navratri traditional Indian attire, possibly a (colour of the lehenga) lehenga choli, with intricate embroidery. She has long, wavy black hair and is looking slightly to her right. The image has warm lighting, suggesting either sunrise or sunset, creating a dramatic shadow on the wall behind her. She is holding what appears to be a dandiya stick."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (8).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the reference picture draped in a perfect off white saree with red border with little red prints on the saree. Pinteresty aesthetic saree. It must feel like a 90's movie baddie with straight wavy hair and windy environment romanticising The girl is standing in front of Durga maa statue in a pandal and contrast drama, creating a mysterious and artistic atmosphere. I want same face as I uploaded no alteration 100 percent same."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (9).jpg",
+                    "prompt": "A cinematic 90s vintage film still, showing the same girl (same face, no changes), in a traditional Gujarati garba outfit with mirror work and heavy jewellery. She stands against a simple wall, dramatic contrast shadows and warm golden tones highlight her features. Her dark brown curly wavy long hair flows in the wind with a flower tucked visibly. The mood is romantic and nostalgic, like a scene from an old movie. Retro film grain, slightly faded colors, dreamy pinteresty fashion look, artistic mysterious atmosphere, introspective yet joyful expression."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (10).jpg",
+                    "prompt": "Retro pinterest-inspired aesthetic portrait of the same girl (face exactly same), wearing a bright green and yellow garba dress with embroidery and traditional silver jewellery. Her wavy curly long hair with a flower tucked in moves slightly in the wind. She stands leaning gently against a wall, looking slightly to her right with an introspective happy mood. The lighting is golden hour, high contrast shadows, 90s Bollywood retro grain, cinematic mysterious vibe."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (11).jpg",
+                    "prompt": "Start with the original image ensuring the facial features remain unchanged Garba dress: overlay a digital image of a traditional garba dress choose a design with intricate embroidery and vibrant colors typical of the 90s aesthetic. Jewellery: add statement piece like a choker bangles and earrings opt for complement the dress Hairs: replace the original hair with a digital images of dark brown wavy curly long hair tick a small flower into the curly for a romantic touch. Background: use a solid wall background with deep shadows and contrast add a slight texture to the wall to enhance the vintage feel. Lighting: apply a warm golden tone to mimic the glow of sunset or golden hour ensure the lighting is dramatic to create a moody atmosphere Expression: keep the original expression intact maintaining the mood.Hand: keep the dandiya in hand Full pic back pose"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (12).jpg",
+                    "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect garba dress with jewellery. Pinteresty aesthetic garba look. It must feel like a 90s movie. Dark brown wavy curly long hair with a small flower tucked visibly nto her curls and romanticising windy environment. The girl is standing against a solid wall, deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones of evoking a sunset or golden hour glow. The background is minimalist and slightly textured. The expression on her face is moody, calm yet happy and introspective. Keep facial features exactly same as uploaded image, do not change face even a bit. It should be 100 percent same with no changes"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (13).jpg",
+                    "prompt": "A realistic portrait of a young woman in a traditional Indian outfit for Garba, styled in retro fashion. She is wearing a colorful chaniya choli with mirror work, embroidered patterns, and a flowing dupatta. Traditional jewelry such as bangles, earrings, and a necklace adorn her. The look is inspired by the uploaded reference image, maintaining the same graceful posture, traditional elegance, and festive mood, but enhanced with retro aesthetics. The image has a vintage retro vibe with warm tones, soft lighting, and a slight film grain effect. Background includes festive Garba dance elements, evoking the charm of old retro photography."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (14).jpg",
+                    "prompt": "A highly realistic cinematic portrait of a young Gujarati woman in a traditional Garba outfit. She is wearing a vibrant chaniya choli with mirror work, colorful embroidery, and a gracefully dupatta in authentic Gujarati style. She is adorned with oxidized silver jewelry — bangles, jhumka earrings, necklace, and maang tikka — completing the festive look. Inspired by the uploaded reference image, her pose is elegant and her expression warm and graceful. The background has a dramatic cinematic effect similar to the reference photo: a dark moody backdrop with a diagonal beam of golden light falling on her, creating depth and highlighting her features. The overall grading is warm with subtle film grain, giving a professional retro-cinematic Gujarati festive atmosphere."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (15).jpg",
+                    "prompt": "Create an ultra-realistic 8K image of a uploaded young Indian woman performing Dhunuchi Naach during Durga Puja. She is wearing a traditional red saree with golden borders, silver bangles, and festive jewelry. She holds a clay incense pot (dhunuchi) in both hands with smoke rising gracefully around her. Her expression is joyful, immersed in devotion, as she dances in front of a grand Durga idol decorated with flowers and garlands. Behind her, drummers and women in colorful sarees are watching, creating a festive and vibrant atmosphere. Natural soft sunlight enhances the smoke and golden tones of the scene."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (16).jpg",
+                    "prompt": "Ultra realistic high quality portrait of the same woman from the uploaded image, dressed in a traditional red and white saree with golden jewelry, bangles, earrings, and a bindi. She is blowing a conch shell with both hands, in a devotional and cultural pose. Dramatic cinematic backlight with thick white smoke swirling behind her, glowing aura effect around her silhouette. Sharp details, 8k resolution, natural skin texture, vibrant red and white fabric, pertect lighting, Indian festival atmosphere, professional DSLR photography style."
+                }
+            ]
+        },
+        {
+            "name": "Navratri Prompt for Boys",
+            "total_avatars": 8,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (1).jpg",
+                    "prompt": "Ultra-realistic photo of the uploaded man wearing a stylish black kurta with mirror-work jacket, holding dandiya sticks in both hands while dancing. The background shows a big Navratri pandal with colortul, lairy lights, and a crowd enjoying Garba. Warm golden lighting, cinematic look, festive mood."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (2).jpg",
+                    "prompt": "Retro cinematic studio portrait using the uploaded person's face, dressed in the same embroidered Navratri kurta and dhoti pants with maroon shoes. Pose: walking mid-step with a natural candid expression, slightly looking to the side. Background: retro studio wall with vintage gradient, warm spotlight, and classic old-photo film grain. Realistic festive detail."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (3).jpg",
+                    "prompt": "Artistic portrait of the uploaded person in the same embroidered churidarr guzarati style kurta, dhoti pants, maroon shoes, different pose. Lighting is dramatic low-key — one side of the face highlighted, the other fading into soft shadows. Studio backdrop dark with textured gradient, giving a mysterious yet elegant festive aura. Slight cinematic haze for a magazine-cover style effect."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (4).jpg",
+                    "prompt": "Ultra-realistic Navratri photoshoot of the uploaded person (male), wearing a traditional embroidered kurta with intricate mirror work, paired with a vibrant dupatta draped casually over the shoulder. The vibe is masculine, confident, and festive. Background is a lively Garba ground with warm decorative lights, people blurred in motion dancing, creating depth and real festival energy. The subject is captured in a natural photoshoot style pose - standing with confidence, slight candid smile, looking off-camera. Lighting is cinematic golden-hour glow with sharp details on outfit and textures, giving authentic fashion editorial + festive vibe. Realistic skin tones, DSLR depth of field, high-resolution professional photoshoot quality."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (5).jpg",
+                    "prompt": "Creat a-realistic, 4k image with soft blur background and vibrant festive decorations like marigold and roses. Night scene with warm lighting highlighting textures and creating a glowing atmosphere. In the center, a stylish young Indian man with He wears a white kurta with floral, with minimal accessories like a silver bracelet and subtle earrings. He has a soft smile and elegant pose. The background features a grand Goddess Durga idol decorated with flowers, lamps, and soft glowing lights, enhancing the festive and spiritual feel."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (6).jpg",
+                    "prompt": "Ultra-realistic image of a handsome man's face (extracted from the provided image) playing dandiya with joyful abandon. He twirls gracefully while holding decorated dandiya sticks, dressed in a colorful traditional kurta-pyjama adorned with intricate embroidery and mirror work. The background shows a lively, blurred nighttime Navratri festival with other dancers, twinkling lights, and festive decorations. Captured from a slightly low angle to emphasize his dynamic suratci ement and enegow"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (7).jpg",
+                    "prompt": "Promot Ultra-realistic cinematic fullbody portrait of a stylish 25-year-old slim man, height 5'5, with same original face features in hairstyle stand. He is wearing a red&black dandiya dress boy and dandiya shoes and a wristwatch. Pose:leaning casual in background dandiya night"
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (8).jpg",
+                    "prompt": "Ultra-realistic cinematic full-body portrait of a stylish 25-year-old slim man (height 5'5), with the same original face and perfectly set hairstyle as in the reference. He is wearing a vibrant red and black traditional dandiya outfit decorated with intricate mirror work and golden embroidery, paired with matching dandiya shoes and a sleek wristwatch. The man is leaning casually against a beautifully decorated pillar wrapped in glowing festive lights. One hand rests in his pocket while the other hand loosely holds the dandiya sticks at his side. His confident gaze is directed toward the camera with a subtle stylish smile. Background: a lively dandiya night filled with colorful lights, blurred silhouettes of dancers, and a glamorous Navratri celebration ambiance"
+                }
+            ]
+        },
+        {
+            "name": "Couple Navratri Prompt",
+            "total_avatars": 5,
+            "views": 9114,
+            "showcase": [
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (1).jpg",
+                    "prompt": "vibrant temple or festival setting. The woman is wearing an elegant sheer red saree with a matching blouse, her dark hair styled with white flowers. The man is wearing a traditional plain red kurta pajama with sunglasses and a watch. They are looking at each other warmly. In the soft-focus background, there are richly decorated idols of Goddess Ambe Maa and other deities, with festive lighting and traditional decorations. The atmosphere is festive and warm."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (2).jpg",
+                    "prompt": "Ultra-realistic retro 90s Pinterest-style cinematic, grainy bright. Girl wearing a colorful Navratri lehenga choli with intricate embroidery and mirror work, leaning back to the guy, her long hair flowing in the wind. Guy in a traditional embroidered kurta pyjama with Chinese collar, standing back-to-back with her, looking sideways. Faces must be 100% identical to the reference image. Medium shot, 50mm lens, dramatic festive lights and shadows on the wall, Navratri vibes - glowing fairy lights, decorated dandiya sticks, and a nostalgic cinematic festival atmosphere."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (3).jpg",
+                    "prompt": "A handsome man and a beautiful woman [exact faces from the images], dressed in vibrant Navratri traditional attire - the woman in a (color of lehenga) lehenga choli with intricate embroidery, and the man in a (color of kurta) kurta pajama with detailed embroidery.Both hold decorated dandiya sticks, standing in warm sunrise/sunset lighting that casts dramatic shadows on the wall behind them."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (4).jpg",
+                    "prompt": "Ultra-realistic 8K portrait of a Gujarati couple in parrot green Garba attire, looking at the camera. Man in embroidered kediyu, no turban, natural hair, churidar bottoms. Woman in embroidered chaniya choli with dupatta, silver jewelry. Realistic hands, flawless fabric, retro 90's sunlight studio, no extra people."
+                },
+                {
+                    "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (5).jpg",
+                    "prompt": "Ultra-realistic cinematic image of a beautiful woman (face extracted from provided image) and a handsome man (face extracted from provided image) joyfully playing dandiya together. The woman has a radiant smile, her hair flying as she twirls gracefully, dressed in a colorful traditional ghagra choli with intricate embroidery and mirror work. Beside her, the man dances with equal energy, holding decorated dandiya sticks, dressed in a vibrant traditional kurta-pyjama with detailed embroidery and mirror work. Both are captured in mid-movement, exuding happiness and festive spirit. The lively, blurred background features a vibrant nighttime Navratri festival with other dancers, twinkling fairy lights, and colorful decorations. The shot is taken from a slightly low angle emphasizing their dynamic energy, synchronized movement, and the celebratory atmosphere."
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Retro Couple Prompt",
-      "total_avatars": 26,
-      "views": 15000,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (1).jpg",
-          "prompt": "Generate a moody retro-inspired close-up with cinematic grain and soft brightness. The girl wears a blue retro saree with wavy curls blowing in the wind, a small flower pinned in her hair. The guy in a white Chinese collar kurta tucks a loose strand of her hair behind her ear while gazing into her eyes. The romantic windy atmosphere enhances the essence of a 90s film scene, with deep shadows adding dramatic artistry."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (2).jpg",
-          "prompt": "Convert a 4k HD realistic stunning portrait.Face must be same as I upload no alternation 100 percent same. Female:woman with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent, elegant red saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her man. Male: Man wear a yellow punjabi and white pajama and a watch in her hand. He is looking towards her, and his hand is on her shoulder.Background: In the background is a 'Maa Durga',', blurred festive Scenery and illuminated by a warm light source from the right, creating a distinct, soft-edged si of her, the overall mood is retro"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (3).jpg",
-          "prompt": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The girl should be draped in a perfect purple chiffon, Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, with silky hair and a small flower tucked visibly into her hair, enhanced by a windy, romantic atmosphere. She is standing against a wall with the shadow of a tree ,where deep shadows and dramatic contrasts add mystery and artistry to the scene, and the man in matching cloths, romantic pose."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (4).jpg",
-          "prompt": "scene with this reference pic that the girl sitting on a wooden bench and the boy standing behind her, gently kissing her on the cheek. She wears a white sleeveless blouse paired with a red sareewith white flowers printed, and her wavy hair is tousled by the wind, holding a handful of roses. The wooden bench and the road are scattered with rose petals, evoking a nostalgic cinematic atmosphere.face should be the same of both girl anf boy"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (5).jpg",
-          "prompt": "A young couple is taking a mirror selfie in a softly lit hallway. Both are wearing matching oversized white sweatshirts with black text printed on the sleeves. The girl is holding the phone with one hand, smiling gently, while the boy stands behind her with his arm wrapped, around her shoulders, resting his chin near her head. The atmosphere feels cozy, warm, and affectionate, highlighting their bond and matching outfits in a minimalist, pastel-toned setting."
-        },  
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (6).jpg",
-          "prompt": "Create a retro, vintage-inspired image – grainy yet bright – based on the reference picture. The girl should be draped in a perfect red, Pinterest-style aesthetic retro saree, and the guy should be wearing a white kurta with a Pinterest-style Chinese collar in a retro look. The vibe must capture the essence of a 90s movie brown-haired baddie, with wavy curls and a small flower tucked visibly into her hair, and the hair should fly enhanced by a windy, romantic atmosphere.The guy should be holding her waist and looking deep into her eyes. They stand against a solid wall, where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. They should be looking at each other."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (7).jpg",
-          "prompt": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The girl should be draped in a perfect purple chiffon, Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, with silky hair and a small flower tucked visibly into her hair, enhanced by a windy, romantic atmosphere. She is standing against a wall with the shadow of a tree ,where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. Her pose should suggest that she is adjusting her hair. And the boy must wear black shirt with suitable pants add watch he must be behind the girl"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (8).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown Pinterest aesthetic retro saree for girl and suite for boy. It must feel like a 90s movie black hair baddie with A small flower tuck visibly in long wavy hair and romanticising windy environment. The girl and boy standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with a golden tones of evoking a sunset or golden hour glow. The background is minimalist and slightly textured the expression on her face is moody, calm yet happy and introspective."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (9).jpg",
-          "prompt": "Create a retro, vintage-inspired image – grainy yet bright – based on the reference picture. The girl should be draped in a perfect red, Pinterest-style aesthetic retro saree, and the guy should be wearing a white kurta with a Pinterest-style Chinese collar in a retro look. The vibe must capture the essence of a 90s movie brown-haired baddie, with wavy curls and a small flower tucked visibly into her hair, and the hair should fly enhanced by a windy, romantic atmosphere.The guy should be holding her waist and looking deep into her eyes. They stand against a solid wall, where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. They should be looking at each other."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (10).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown Pinteresty aesthetic retro saree for girl and 582 suite for boy. It must feel like a 90s movie red hair baddie with a small flower tuck visibly in the curls and windy environment romanticising for girl. The girl and boy is standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere"
-        },   
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (11).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the refrence picture but draped in a perfect brown colour pinteresty aesthetic saaree. 8t must feel like a 90s movie black and brown mixed hair baddie with a small flower tuck visible in wavy curls romenticising widly environment for the girl and a black cort suit for the boy. The couple is standing against the solid wall deep shadows and contrasting drama creating mystrious and artistic atmosphere where lighting is warm with a golden tones"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (12).jpg",
-          "prompt": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. 510 The girl should be draped in a perfect off-white cotton saree with a red blouse. Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark brown-haired baddie, enhanced by a windy, romantic atmosphere and the guy should be wearing an off white kurta She stands against an old wooden door, where deep shadows and dramatic contrasts add mystery and artistry to the scene"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (13).jpg",
-          "prompt": "with cinematic grain and soft brightness. The girl wears a blue retro saree with wavy curls blowing in the wind, a small flower pinned in her hair. The guy in a white Chinese collar kurta tucks a loose strand of her hair behind her ear while gazing into her eyes. The romantic windy atmosphere enhances the essence of a 90s film scene,"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (14).jpg",
-          "prompt": "Open Gemini Transform this couple photo into a vibrant retro 90s Bollywood-style portrait. The woman is wearing white translucent saree with red rose behind on her right ear and dramatic eyeliner, red lipstick, and voluminous 90s-style hair. The man is wearing white translucent shirt, Formal pants, and classic sunglasses. The ovefall mood is romantic and cinematic, with soft glowing light, film grain, and a slightly faded vintage color palette. The background is plain, warm toned wall, illuminated"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (15).jpg",
-          "prompt": "Create a realistic couple photograph by ensuring the boy and girl are placed together and Both of them are in each other's arms, Draped a plain lavender chiffon saree with pink sleeveless blouse to girl and boy wear a black formal dress. Girl wear a small diamond mangalsutra. It must feel like 90's movie dark black hair with a small red color flower tucked into her bun and romanticizing windy environment. The background is moonlit beach."
-        },   
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (16).jpg",
-          "prompt": "A royal and elegant couple portrait in a traditional architectural archway. The man is wearing a sharp black tailored suit with a confident yet warm expression, standing tall.The woman is dressed in a deep maroon saree with golden embroidery, styled gracefully with heavy bridal jewelry - necklace, earrings, and maang tikka. She looks regal, gazing at him with elegance and"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (17).jpg",
-          "prompt": "create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown saree fir girl and black suit for boy. It must feel like a 90s movie brown currly hair baddie with a small flower tucked visibly in the wavy curls and windy environment romanticising for girl. The girl and boy is standing against the solid wall deep shadows and contrast drama creating a mysterious and artistic atmosphere with heavy rain"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (18).jpg",
-          "prompt": "Convert this image into A full-body, ultra-realistic photo of a handsome young man and a beautiful young woman, both professional models, posing as lovers. The man is wearing a sharp, modern black suit. The woman is wearing an elegant dark blue silk sari. He wears a luxury watch, and she wears delicate jewelry. They are in a dark studio with a black background. The photo is ultra-premium quality, 8K resolution, with a luxurious and romantic mood"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (19).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the reference picture with the girl draped in a perfect brown Pinteresty aesthetic retro saree and the boy ina brown suit, feeling likea 90s movie with black hair baddie style and a small flower tucked visibly into the curls, romanticisinga windy environment for the girl the girl & boy are standing againsta solid wall with deep shadows contrast drama, creatinga mysterious and artistic atmosphere."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (20).jpg",
-          "prompt": "Upload two photos of the couple and generate a full-size hyper-realistic cinematic portrait of them standing together in the rain. Keep the faces exactly the same as the uploaded photos for originality. The girl is wearing a beautiful saree, fully drenched, with natural wet-look details and raindrops on her skin and fabric. She is looking forward with a soft, romantic expression. The boy, wearing a soaked white open shirt, is standing slightly behind her, gently holding her by the waist, creating an intimate and protective pose. Both are smiling and enjoying the rain moment with love and warmth. The atmosphere should be cinematic: visible raindrops, water glistening on clothes and skin, soft blurred background with glowing streetlights or a dreamy backdrop. Make the overall scene intimate, romantic, vibrant, and full of emotions — like a Bollywood rain sequence."
-        },  
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (21).jpg",
-          "prompt": "Convert this image into a Pinterest-style aesthetic with a retro saree and 3-piece suit, evoking a 90s movie feel, looking eachother smiling. The couple should wear black and brown outfits, with a flower tucked in the girl's hair, standing against a deep wall with sunlight shadows in golden tones. I want same face for both with no alteration 100 percent same face."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (22).jpg",
-          "prompt": "He will be holding my saree pallu in his hand, dressed in a retro style with a black shirt, carrying a Dev Anand-inspired look. I will be in a perfect plain chiffon saree, red in color, giving a Pinteresty aesthetic retro vibe. Think of a 90s movie feel — dark brown wavy curly hair with a small flower tucked visibly into the curls, romanticizing in a windy environment. I’ll be standing against a solid wall with deep shadows and contrast drama, creating a mysterious and artistic atmosphere. The lighting will be warm with golden tones, evoking a sunset or golden hour glow. The background will stay minimalistic and slightly textured, while my expression will be moody, calm, yet happy and introspective."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (23).jpg",
-          "prompt": "Create a retro, vintage-inspired image – grainy yet radiant – of a couple in a romantic pose. The girl is draped in a deep purple saree with subtle golden borders, exuding Pinterest-style retro elegance. Her wavy curls flow softly, a bright red flower tucked into her hair adding a bold, 90s charm. The boy, dressed in a matching purple retro shirt, stands close beside her, gently holding the edge of her saree pallu in a tender gesture, while gazing at her with affection. The girl looks back at him with a soft, graceful smile, capturing timeless chemistry. They stand against a plain wall where warm light and deep shadows create dramatic contrasts, enhancing the moody, cinematic essence. A gentle breeze lifts the saree slightly, adding motion and romantic allure, evoking the enchantment of a classic vintage movie scene."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (24).jpg",
-          "prompt": "Create a retro, vintage-inspired image – grainy yet radiant – of a couple in a romantic pose. The girl is draped in a deep purple saree with subtle golden borders, exuding Pinterest-style retro elegance. Her wavy curls flow softly, a bright red flower tucked into her hair adding a bold, 90s charm. The boy, dressed in a matching purple retro shirt, stands close beside her, gently holding the edge of her saree pallu in a tender gesture, while gazing at her with affection. The girl looks back at him with a soft, graceful smile, capturing timeless chemistry. They stand against a plain wall where warm light and deep shadows create dramatic contrasts, enhancing the moody, cinematic essence. A gentle breeze lifts the saree slightly, adding motion and romantic allure, evoking the enchantment of a classic vintage movie scene."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (25).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown Pinteresty aesthetic retro saree for girl and 582 suite for boy. It must feel like a 90s movie red hair baddie with a small flower tuck visibly in the curls and windy environment romanticising for girl. The girl and boy is standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/retrocouple (26).jpg",
-          "prompt": "Create a retro, vintage-inspired image – grainy yet luminous – of a romantic couple. The girl is draped in a flowing saree with perfect Pinterest-style elegance, her wavy curls adorned with a small flower tucked into her hair. The boy stands close beside her, dressed in a matching retro shirt, their outfits color-coordinated to amplify the cinematic harmony. They share a soft, romantic pose – the girl looking ahead with subtle grace while the boy gazes at her with intensity, evoking the aura of a 90s movie couple. A warm golden light casts dramatic shadows on the solid wall behind them, enhancing the mood with depth and mystery. The windy atmosphere lifts the saree slightly, adding motion and romantic charm, creating an enchanting, timeless cinematic effect."
-        }
-      ]
-    },
-    {
-      "name": "Girls Photo Editing Prompt",
-      "total_avatars": 6,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (1).jpg",
-          "prompt": "A moody, cinematic portrait of a woman wearing Cap backwords, sitting on a wooden chair in a dimly lit room. She is wearing a loose, cream-colored blouse with ruffles, looking contemplative and lost in thought. Around her, sheets of paper are dramatically suspended in mid-air, as if caught in motion, creating a surreal and dreamlike atmosphere. The lighting casts soft shadows on the wall, emphasizing the mysterious and artistic mood of the scene"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (2).jpg",
-          "prompt": "High-contrast black & white photo in a modern art gallery. Candid stolen shot of a young woman standing still among a blurred moving crowd. Slightly slanted angle, face partly turned (not fully side view/camera). 3/4 body shot (mid-thigh up). Wearing a long dark coat, hands in pockets. Behind her: framed Banks artworks arranged in a grid."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (3).jpg",
-          "prompt": "Hands in Pockets - Relaxed Authority. A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). She stands tall in a dark moody studio, surrounded by soft drifting smoke under a dramatic spotlight.Outfit:Oversized slate-blue luxury suit with wide-leg trousers, paired with a slightly unbuttoned white silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (4).jpg",
-          "prompt": "A low-angle, black and white photograph of a me(based on uploaded refrence) in a long black trench coat, standing amidst a flurry of pigeons flying overhead. The woman is looking directly at the viewer with a serious expression. The pigeons are blurred and in various stages of flight, creating a dynamic and slightly ominous atmosphere. The background is a stark, overcast sky and the hint of trees at the bottom. The overall mood is mysterious and dramatic."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (5).jpg",
-          "prompt": "A woman (photo uploaded) sitting in a quiet classroom, leaning casually on a wooden school chair with her legs crossed. She has shoulder-length black hair parted in the middle, soft natural features, and a calm neutral expression on her face. She is wearing a loose navy blue sweatshirt, light beige chino pants, and classic black-and-white Converse sneakers. Her left arm rests on the desk while her right hand drops casually to the side. Behind her is a plain off-white classroom wall with visible wear and a slightly dirty texture. On the wall are several pinned papers, photos, and colorful sticky notes arranged in a grid. Among the papers, one clearly shows the printed word "NewAiPrompt.com." positioned above her head. Sunlight enters sharply from the right side of the frame, creating a triangular beam of light on the wall and casting a strong shadow of her head and shoulders. The contrast between light and shadow is dramatic, cinematic, and natural, with a warm late-afternoon tone. The overall style feels candid and realistic, similar to a film photograph: slightly grainy, soft vintage texture, natural imperfections, not overly polished or digital."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/girlphoto (6).jpg",
-          "prompt": "Hyper-realistic portrait in an artistic editorial aesthetic. Capture the person from the reference image with complete fidelity to their real features: an oval-shaped face with a continuous jawline, fair skin with natural freckles and realistic micro-details, almond-shaped hazel-green eyes with an introspective shine, thick arched eyebrows, a straight nose with a rounded tip, medium lips slightly parted with natural texture, and dark brown hair styled loosely swept back. Intense yellow flowers in Butter Vivid Yellow (#F6D860) cross the foreground, partially covering the face, with vibrant, luminous saturation that creates poetic layers. Cinematic side lighting with a strong golden-orange rim light outlines the silhouette. The light cuts through as if coming from Venetian blinds, casting stripes of shadow and glow across the face and flowers, producing an intimate and poetic effect. An analog atmosphere with subtle photographic noise and fine film-like grain evokes the feel of analog photography. A contrasting dark background enhances the composition, styled as a contemporary fashion magazine editorial. Rendered in extreme 8K quality, with photographic sharpness, realistic depth, and a poetic atmosphere."
-        }
-      ]
-    },
-    {
-      "name": "Boy Model Photoshoots",
-      "total_avatars": 6,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (1).jpg",
-          "prompt": "A stylish fashion editorial photo of a male model wearing an oversized white sweatshirt and matching white sweatpants, paired with clean white sneakers. Set against a soft red studio backdrop with diffused cinematic lighting that enhances fabric textures. Futuristic editorial style. The model is sitting elegantly, head slightly tilted, posture relaxed yet stylish."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (2).jpg",
-          "prompt": "A sleek fashion editorial photo of a male model wearing a fitted black leather jacket with matching tailored black trousers, paired with chunky black boots. Background: a deep blue gradient studio backdrop with sharp cinematic lighting, emphasizing metallic leather textures. Futuristic editorial vibe. The model stands tall with one hand in his pocket, gazing directly into the camera with a confident stance."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (3).jpg",
-          "prompt": "A bold fashion editorial photo of a male model in an oversized emerald green hoodie paired with loose beige cargo pants and crisp white sneakers. A warm orange-toned studio backdrop with soft diffused cinematic lighting highlights the folds of fabric. Editorial streetwear aesthetic. The model sits cross-legged on the floor, gazing upward with a thoughtful expression."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (4).jpg",
-          "prompt": "A refined fashion editorial photo of a male model wearing a tailored cream blazer layered over a soft grey turtleneck, slim-fit cream trousers, and brown loafers. A minimalist light beige studio backdrop with soft golden cinematic lighting creates a futuristic yet timeless editorial atmosphere. The model leans slightly against a wall, arms crossed, calm and composed."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (5).jpg",
-          "prompt": "A striking fashion editorial photo of a male model dressed in a bold red satin bomber jacket paired with relaxed-fit black trousers and sleek black sneakers. Background: a dramatic purple-toned studio backdrop with cinematic rim lighting that accentuates glossy satin textures and contrasts. The model crouches low with one arm resting on his knee, head tilted slightly, exuding intensity."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/boymodel (6).jpg",
-          "prompt": "A contemporary fashion editorial photo of a male model in a pastel lavender oversized sweatshirt with matching joggers, paired with chunky white sneakers. A soft mint-green studio backdrop with dreamy cinematic lighting emphasizes color harmony and smooth textures. The model reclines casually on a modern chair, one leg draped over the armrest, projecting effortless confidence."
-        }
-      ]
-    },
-    {
-      "name": "Romantic Wedding Couple Prompts",
-      "total_avatars": 4,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (1).jpg",
-          "prompt": "Couple embracing in a garden filled with soft blooming flowers. The man wears a beige suit with a white shirt and floral boutonnière, while the woman in a delicate lace wedding dress with puff sleeves hugs him from behind, resting her head gently on his shoulder. Natural daylight, pastel tones, dreamy and romantic atmosphere, soft focus with warm vintage color grading."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (2).jpg",
-          "prompt": "A bride and groom standing in a sunlit meadow surrounded by wildflowers. The groom in a cream linen suit with a pastel tie and boutonnière, while the bride in a lace gown with puff sleeves leans into him, her arms gently wrapped around his waist. Golden-hour glow, soft focus, painterly pastel tones, ethereal and timeless atmosphere."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (3).jpg",
-          "prompt": "Couple in love sharing a quiet embrace in a rose garden. The groom wears a tailored beige suit with a soft floral accent, while the bride in a vintage-inspired lace wedding dress with puff sleeves rests her head on his shoulder. Gentle daylight, romantic haze, muted pastel palette, with a dreamy film-like warmth."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/romantic (4).jpg",
-          "prompt": "Newlyweds holding each other in a blooming orchard. The man dressed in a classic beige suit with an ivory boutonnière, and the woman in a flowing lace gown with puff sleeves hugs him tenderly from behind. Delicate pastel blossoms all around, natural light, soft cinematic blur, and a nostalgic, vintage romance aesthetic."
-        }
-      ]
-    },
-    {
-      "name": "Magical Rooftop in Istanbul",
-      "total_avatars": 9,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (1).jpg",
-          "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a yellow & pink saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (2).jpg",
-          "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing an amazing saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (3).jpg",
-          "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a yellow saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (4).jpg",
-          "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a red & black gradient saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
-        }, {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (5).jpg",
-          "prompt": "Create a 8K realistic close-up shot, in which I’m in edit Turkey, Istanbul, sitting on a rooftop. Don’t change the face features, keep it 100 percent same as I uploaded. I’m wearing a yellow dress saree flying that spreads beautifully in the wind. Around me, white pigeons are flying. The background should show Istanbul’s skyline with a magical vibe."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (6).jpg",
-          "prompt": "A hyper-realistic 8K close-up portrait of a woman sitting on a rooftop in Istanbul, Turkey. She wears a flowing red dress spreading dramatically in the wind, surrounded by white pigeons in motion. The background shows Istanbul’s skyline at sunset glowing with golden aura. Cinematic lighting, ultra-sharp detail, dreamy atmosphere."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (7).jpg",
-          "prompt": "8K fashion editorial close-up of a woman on a rooftop in Istanbul, wearing a sleek modern white dress with minimalist design. Her hair moves with the wind, white pigeons fly around her, and the Istanbul skyline glows behind with a magical pastel twilight. Styled like a Vogue magazine shoot, soft focus, cinematic depth of field."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (8).jpg",
-          "prompt": "8K wide-angle cinematic rooftop shot in Istanbul. The woman wears a flowing royal blue gown that spreads widely in the wind. Pigeons fly overhead, and the city skyline sparkles in the background with a dreamy enchanted glow. Photographed in an epic, wide cinematic style with dramatic lens flare."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/magical (9).jpg",
-          "prompt": "8K monochrome black-and-white rooftop portrait in Istanbul. The woman wears a striking black gown with sharp flowing lines. White pigeons create strong contrast as they fly across the moody skyline. Styled like fine art photography, high contrast, dramatic shadows, timeless aesthetic."
-        }
-      ]
-    },
-    {
-      "name": "Diwali Prompts for Boy",
-      "total_avatars": 6,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (1).jpg",
-          "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is sitting gracefully, holding a decorated brass thali filled with lit diyas (oil lamps)in both hands.Her head is slightly tilted, with a gentle smile and expressive eyeslooking towards the camera. The background features warmglowing fairy lights, candles, and a blurred god laxmi idol, creating a devotional festive vibe. Foreground bokeh of alowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style. For making this photo use the above photo and don't change her face it should be exact same 100%"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (2).jpg",
-          "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is holding a lit sparkler in his hands with a joyful expression, captured from a slightly different camera angle. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (3).jpg",
-          "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is bending down and carefully making a colorful rangoli on the floor with a focused yet gentle smile, captured from a slightly different camera angle. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (4).jpg",
-          "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is sitting next to a collection of firecrackers such as Rocket, Anar (Fountain), Chakri (Ground Spinner), Sutli Bomb, Chakrabom, Super Star Crackling, Flashing Diamonds, Safe & Sound Crackers, and Fuljhadi. He is resting one hand on the pile of crackers with a relaxed expression, captured from a slightly different camera angle. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (5).jpg",
-          "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is standing on the roof of his house, gently releasing and blowing a glowing sky lantern into the night sky, captured from a slightly different camera angle. The background features warm glowing fairy lights, distant houses with candles, and a festive atmosphere. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/diwaliboy (6).jpg",
-          "prompt": "A handsome young Indian man in traditional festive attire, wearing a pink floral patterned shirt, light grey slim fit pant and a Blue strap smartwatch. He is kneeling down and carefully placing lit diyas around the floor and windowsill, with a gentle smile on his face. The background features warm glowing fairy lights, candles, and a blurred god Laxmi idol, creating a devotional festive vibe. Foreground bokeh of glowing diyas adds depth. Cinematic photography, soft warm lighting, high detail, professional portrait style."
-        }
-      ]
-    },
-    {
-      "name": "Navratri AI Photo for Girl",
-      "total_avatars": 16,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (1).jpg",
-          "prompt": "Beautiful woman extract face from image playing dandiya with joyful abandon. She has a bright smile, her hair flying as she twirls, holding decorated dandiya sticks, dressed in a colorful, traditional ghagra choli with intricate embroidery and mirror work. The background is a lively blurred scene of a nighttime Navratri festival with other dancers, twinkling lights, and festive decorations. The image is captured from a slightly low angle, emphasizing her dynamic movement."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (2).jpg",
-          "prompt": "A stunning 4K portrait of a radiant young woman dancing dandiya at a Navratri festival. Her parrot-green ghagra choli with mirror work glitters under the festive lights. She twirls gracefully, hair flying, her joyful smile illuminated. She holds decorated dandiya sticks in mid-motion, surrounded by blurred dancers, glowing lanterns, and a vibrant nighttime celebration."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (3).jpg",
-          "prompt": "A lively 4K festival scene of a beautiful woman immersed in Garba dance. Dressed in a fiery red embroidered ghagra choli with shimmering mirror details, she beams with delight while spinning, dandiya sticks raised. The background glows with colorful string lights and other dancers in motion, creating a sense of energy and celebration."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (4).jpg",
-          "prompt": "A dynamic 4K low-angle capture of a young woman playing dandiya with passion and joy. Her outfit is a sunshine yellow ghagra choli richly embroidered with silver and mirror accents. She laughs brightly, hair caught mid-swing as she twirls, dandiya sticks flashing in her hands. The blurred Navratri fairground glimmers with twinkling lights and festive décor."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (5).jpg",
-          "prompt": "A cinematic 4K action shot of a glowing woman enjoying dandiya at Navratri. Her emerald green ghagra choli sparkles with intricate embroidery, reflecting the stage lights. She is caught mid-spin, smiling with abandon, her sticks clashing in rhythm. Behind her, the night is filled with dancers, lanterns, and strings of golden fairy lights."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (6).jpg",
-          "prompt": "A vibrant 4K festival portrait of a beautiful woman dancing Garba. She wears a flowing magenta pink ghagra choli with ornate embroidery and mirror work that glistens as she moves. Her joyful expression and playful twirl make her the heart of the scene, dandiya sticks in motion. The background is softly blurred, alive with lights, decorations, and fellow dancers in traditional attire."
-        }, 
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (7).jpg",
-          "prompt": "A beautiful woman [exact face upload the image] in Navratri traditional Indian attire, possibly a (colour of the lehenga) lehenga choli, with intricate embroidery. She has long, wavy black hair and is looking slightly to her right. The image has warm lighting, suggesting either sunrise or sunset, creating a dramatic shadow on the wall behind her. She is holding what appears to be a dandiya stick."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (8).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the reference picture draped in a perfect off white saree with red border with little red prints on the saree. Pinteresty aesthetic saree. It must feel like a 90's movie baddie with straight wavy hair and windy environment romanticising The girl is standing in front of Durga maa statue in a pandal and contrast drama, creating a mysterious and artistic atmosphere. I want same face as I uploaded no alteration 100 percent same."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (9).jpg",
-          "prompt": "A cinematic 90s vintage film still, showing the same girl (same face, no changes), in a traditional Gujarati garba outfit with mirror work and heavy jewellery. She stands against a simple wall, dramatic contrast shadows and warm golden tones highlight her features. Her dark brown curly wavy long hair flows in the wind with a flower tucked visibly. The mood is romantic and nostalgic, like a scene from an old movie. Retro film grain, slightly faded colors, dreamy pinteresty fashion look, artistic mysterious atmosphere, introspective yet joyful expression."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (10).jpg",
-          "prompt": "Retro pinterest-inspired aesthetic portrait of the same girl (face exactly same), wearing a bright green and yellow garba dress with embroidery and traditional silver jewellery. Her wavy curly long hair with a flower tucked in moves slightly in the wind. She stands leaning gently against a wall, looking slightly to her right with an introspective happy mood. The lighting is golden hour, high contrast shadows, 90s Bollywood retro grain, cinematic mysterious vibe."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (11).jpg",
-          "prompt": "Start with the original image ensuring the facial features remain unchanged Garba dress: overlay a digital image of a traditional garba dress choose a design with intricate embroidery and vibrant colors typical of the 90s aesthetic. Jewellery: add statement piece like a choker bangles and earrings opt for complement the dress Hairs: replace the original hair with a digital images of dark brown wavy curly long hair tick a small flower into the curly for a romantic touch. Background: use a solid wall background with deep shadows and contrast add a slight texture to the wall to enhance the vintage feel. Lighting: apply a warm golden tone to mimic the glow of sunset or golden hour ensure the lighting is dramatic to create a moody atmosphere Expression: keep the original expression intact maintaining the mood.Hand: keep the dandiya in hand Full pic back pose"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (12).jpg",
-          "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect garba dress with jewellery. Pinteresty aesthetic garba look. It must feel like a 90s movie. Dark brown wavy curly long hair with a small flower tucked visibly nto her curls and romanticising windy environment. The girl is standing against a solid wall, deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones of evoking a sunset or golden hour glow. The background is minimalist and slightly textured. The expression on her face is moody, calm yet happy and introspective. Keep facial features exactly same as uploaded image, do not change face even a bit. It should be 100 percent same with no changes"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (13).jpg",
-          "prompt": "A realistic portrait of a young woman in a traditional Indian outfit for Garba, styled in retro fashion. She is wearing a colorful chaniya choli with mirror work, embroidered patterns, and a flowing dupatta. Traditional jewelry such as bangles, earrings, and a necklace adorn her. The look is inspired by the uploaded reference image, maintaining the same graceful posture, traditional elegance, and festive mood, but enhanced with retro aesthetics. The image has a vintage retro vibe with warm tones, soft lighting, and a slight film grain effect. Background includes festive Garba dance elements, evoking the charm of old retro photography."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (14).jpg",
-          "prompt": "A highly realistic cinematic portrait of a young Gujarati woman in a traditional Garba outfit. She is wearing a vibrant chaniya choli with mirror work, colorful embroidery, and a gracefully dupatta in authentic Gujarati style. She is adorned with oxidized silver jewelry — bangles, jhumka earrings, necklace, and maang tikka — completing the festive look. Inspired by the uploaded reference image, her pose is elegant and her expression warm and graceful. The background has a dramatic cinematic effect similar to the reference photo: a dark moody backdrop with a diagonal beam of golden light falling on her, creating depth and highlighting her features. The overall grading is warm with subtle film grain, giving a professional retro-cinematic Gujarati festive atmosphere."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (15).jpg",
-          "prompt": "Create an ultra-realistic 8K image of a uploaded young Indian woman performing Dhunuchi Naach during Durga Puja. She is wearing a traditional red saree with golden borders, silver bangles, and festive jewelry. She holds a clay incense pot (dhunuchi) in both hands with smoke rising gracefully around her. Her expression is joyful, immersed in devotion, as she dances in front of a grand Durga idol decorated with flowers and garlands. Behind her, drummers and women in colorful sarees are watching, creating a festive and vibrant atmosphere. Natural soft sunlight enhances the smoke and golden tones of the scene."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratrigirl (16).jpg",
-          "prompt": "Ultra realistic high quality portrait of the same woman from the uploaded image, dressed in a traditional red and white saree with golden jewelry, bangles, earrings, and a bindi. She is blowing a conch shell with both hands, in a devotional and cultural pose. Dramatic cinematic backlight with thick white smoke swirling behind her, glowing aura effect around her silhouette. Sharp details, 8k resolution, natural skin texture, vibrant red and white fabric, pertect lighting, Indian festival atmosphere, professional DSLR photography style."
-        }
-      ]
-    },
-    {
-      "name": "Navratri Prompt for Boys",
-      "total_avatars": 8,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (1).jpg",
-          "prompt": "Ultra-realistic photo of the uploaded man wearing a stylish black kurta with mirror-work jacket, holding dandiya sticks in both hands while dancing. The background shows a big Navratri pandal with colortul, lairy lights, and a crowd enjoying Garba. Warm golden lighting, cinematic look, festive mood."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (2).jpg",
-          "prompt": "Retro cinematic studio portrait using the uploaded person's face, dressed in the same embroidered Navratri kurta and dhoti pants with maroon shoes. Pose: walking mid-step with a natural candid expression, slightly looking to the side. Background: retro studio wall with vintage gradient, warm spotlight, and classic old-photo film grain. Realistic festive detail."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (3).jpg",
-          "prompt": "Artistic portrait of the uploaded person in the same embroidered churidarr guzarati style kurta, dhoti pants, maroon shoes, different pose. Lighting is dramatic low-key — one side of the face highlighted, the other fading into soft shadows. Studio backdrop dark with textured gradient, giving a mysterious yet elegant festive aura. Slight cinematic haze for a magazine-cover style effect."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (4).jpg",
-          "prompt": "Ultra-realistic Navratri photoshoot of the uploaded person (male), wearing a traditional embroidered kurta with intricate mirror work, paired with a vibrant dupatta draped casually over the shoulder. The vibe is masculine, confident, and festive. Background is a lively Garba ground with warm decorative lights, people blurred in motion dancing, creating depth and real festival energy. The subject is captured in a natural photoshoot style pose - standing with confidence, slight candid smile, looking off-camera. Lighting is cinematic golden-hour glow with sharp details on outfit and textures, giving authentic fashion editorial + festive vibe. Realistic skin tones, DSLR depth of field, high-resolution professional photoshoot quality."
-        }, {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (5).jpg",
-          "prompt": "Creat a-realistic, 4k image with soft blur background and vibrant festive decorations like marigold and roses. Night scene with warm lighting highlighting textures and creating a glowing atmosphere. In the center, a stylish young Indian man with He wears a white kurta with floral, with minimal accessories like a silver bracelet and subtle earrings. He has a soft smile and elegant pose. The background features a grand Goddess Durga idol decorated with flowers, lamps, and soft glowing lights, enhancing the festive and spiritual feel."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (6).jpg",
-          "prompt": "Ultra-realistic image of a handsome man's face (extracted from the provided image) playing dandiya with joyful abandon. He twirls gracefully while holding decorated dandiya sticks, dressed in a colorful traditional kurta-pyjama adorned with intricate embroidery and mirror work. The background shows a lively, blurred nighttime Navratri festival with other dancers, twinkling lights, and festive decorations. Captured from a slightly low angle to emphasize his dynamic suratci ement and enegow"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (7).jpg",
-          "prompt": "Promot Ultra-realistic cinematic fullbody portrait of a stylish 25-year-old slim man, height 5'5, with same original face features in hairstyle stand. He is wearing a red&black dandiya dress boy and dandiya shoes and a wristwatch. Pose:leaning casual in background dandiya night"
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/navratriboy (8).jpg",
-          "prompt": "Ultra-realistic cinematic full-body portrait of a stylish 25-year-old slim man (height 5'5), with the same original face and perfectly set hairstyle as in the reference. He is wearing a vibrant red and black traditional dandiya outfit decorated with intricate mirror work and golden embroidery, paired with matching dandiya shoes and a sleek wristwatch. The man is leaning casually against a beautifully decorated pillar wrapped in glowing festive lights. One hand rests in his pocket while the other hand loosely holds the dandiya sticks at his side. His confident gaze is directed toward the camera with a subtle stylish smile. Background: a lively dandiya night filled with colorful lights, blurred silhouettes of dancers, and a glamorous Navratri celebration ambiance"
-        }
-      ]
-    },
-     {
-      "name": "Couple Navratri Prompt",
-      "total_avatars": 5,
-      "views": 9114,
-      "showcase": [
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (1).jpg",
-          "prompt": "vibrant temple or festival setting. The woman is wearing an elegant sheer red saree with a matching blouse, her dark hair styled with white flowers. The man is wearing a traditional plain red kurta pajama with sunglasses and a watch. They are looking at each other warmly. In the soft-focus background, there are richly decorated idols of Goddess Ambe Maa and other deities, with festive lighting and traditional decorations. The atmosphere is festive and warm."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (2).jpg",
-          "prompt": "Ultra-realistic retro 90s Pinterest-style cinematic, grainy bright. Girl wearing a colorful Navratri lehenga choli with intricate embroidery and mirror work, leaning back to the guy, her long hair flowing in the wind. Guy in a traditional embroidered kurta pyjama with Chinese collar, standing back-to-back with her, looking sideways. Faces must be 100% identical to the reference image. Medium shot, 50mm lens, dramatic festive lights and shadows on the wall, Navratri vibes - glowing fairy lights, decorated dandiya sticks, and a nostalgic cinematic festival atmosphere."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (3).jpg",
-          "prompt": "A handsome man and a beautiful woman [exact faces from the images], dressed in vibrant Navratri traditional attire - the woman in a (color of lehenga) lehenga choli with intricate embroidery, and the man in a (color of kurta) kurta pajama with detailed embroidery.Both hold decorated dandiya sticks, standing in warm sunrise/sunset lighting that casts dramatic shadows on the wall behind them."
-        },
-        {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (4).jpg",
-          "prompt": "Ultra-realistic 8K portrait of a Gujarati couple in parrot green Garba attire, looking at the camera. Man in embroidered kediyu, no turban, natural hair, churidar bottoms. Woman in embroidered chaniya choli with dupatta, silver jewelry. Realistic hands, flawless fabric, retro 90's sunlight studio, no extra people."
-        }, {
-          "image": "https://rajupatel125.github.io/Rajupatel125/aiimage/cnavratri (5).jpg",
-          "prompt": "Ultra-realistic cinematic image of a beautiful woman (face extracted from provided image) and a handsome man (face extracted from provided image) joyfully playing dandiya together. The woman has a radiant smile, her hair flying as she twirls gracefully, dressed in a colorful traditional ghagra choli with intricate embroidery and mirror work. Beside her, the man dances with equal energy, holding decorated dandiya sticks, dressed in a vibrant traditional kurta-pyjama with detailed embroidery and mirror work. Both are captured in mid-movement, exuding happiness and festive spirit. The lively, blurred background features a vibrant nighttime Navratri festival with other dancers, twinkling fairy lights, and colorful decorations. The shot is taken from a slightly low angle emphasizing their dynamic energy, synchronized movement, and the celebratory atmosphere."
-        }
-      ]
-    }
-  ]
+    ]
 }
