@@ -1,0 +1,99 @@
+{
+  "appName": "Phota",
+  "homeScreen": {
+    "topCarousel": [
+      {
+        "id": "carousel_001",
+        "title": "Couple Photoshoot",
+        "imageUrl": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg",
+        "actionText": "Free Try",
+        "profilePreviews": [
+          "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg",
+          "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+        ]
+      },
+      {
+        "id": "carousel_002",
+        "title": "Vintage Portrait",
+        "imageUrl": "https://images.pexels.com/photos/1382734/pexels-photo-1382734.jpeg",
+        "actionText": "New",
+        "profilePreviews": [
+          "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg"
+        ]
+      },
+      {
+        "id": "carousel_003",
+        "title": "AI Fantasy World",
+        "imageUrl": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg",
+        "actionText": "Pro",
+        "profilePreviews": []
+      }
+    ],
+    "middleButtons": [
+      {
+        "id": "btn_ai_video",
+        "label": "AI Video",
+        "iconName": "ic_ai_video"
+      },
+      {
+        "id": "btn_expand",
+        "label": "Expand",
+        "iconName": "ic_expand"
+      },
+      {
+        "id": "btn_enhance",
+        "label": "Enhance",
+        "iconName": "ic_enhance"
+      }
+    ],
+    "categorySections": [
+      {
+        "sectionId": "sec_new",
+        "sectionTitle": "New",
+        "items": [
+          {
+            "id": "new_01",
+            "label": "80s Style",
+            "imageUrl": "https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg"
+          },
+          {
+            "id": "new_02",
+            "label": "Cyberpunk",
+            "imageUrl": "https://images.pexels.com/photos/2763239/pexels-photo-2763239.jpeg"
+          },
+          {
+            "id": "new_03",
+            "label": "Anime Look",
+            "imageUrl": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg"
+          },
+          {
+            "id": "new_04",
+            "label": "Watercolor",
+            "imageUrl": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg"
+          }
+        ]
+      },
+      {
+        "sectionId": "sec_ai_video",
+        "sectionTitle": "AI Video",
+        "items": [
+          {
+            "id": "vid_01",
+            "label": "Magic Effects",
+            "imageUrl": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg"
+          },
+          {
+            "id": "vid_02",
+            "label": "Slow Motion",
+            "imageUrl": "https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg"
+          },
+          {
+            "id": "vid_03",
+            "label": "Old Film",
+            "imageUrl": "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}
