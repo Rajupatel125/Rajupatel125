@@ -7,6 +7,7 @@
         "title": "Couple Photoshoot",
         "imageUrl": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg",
         "actionText": "Free Try",
+        "prompt": "A happy couple laughing together at an outdoor party, cinematic lighting, bokeh background.",
         "profilePreviews": [
           "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg",
           "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
@@ -17,6 +18,7 @@
         "title": "Vintage Portrait",
         "imageUrl": "https://images.pexels.com/photos/1382734/pexels-photo-1382734.jpeg",
         "actionText": "New",
+        "prompt": "1950s vintage style portrait of a woman with a colorful hat, soft focus, film grain.",
         "profilePreviews": [
           "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg"
         ]
@@ -26,6 +28,7 @@
         "title": "AI Fantasy World",
         "imageUrl": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg",
         "actionText": "Pro",
+        "prompt": "Epic fantasy landscape with floating islands and waterfalls, magical glowing plants, hyperrealistic, 8k.",
         "profilePreviews": []
       }
     ],
@@ -54,22 +57,26 @@
           {
             "id": "new_01",
             "label": "80s Style",
-            "imageUrl": "https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg",
+            "prompt": "Vibrant 80s retro wave style, neon grids, a classic sports car driving into the sunset."
           },
           {
             "id": "new_02",
             "label": "Cyberpunk",
-            "imageUrl": "https://images.pexels.com/photos/2763239/pexels-photo-2763239.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/2763239/pexels-photo-2763239.jpeg",
+            "prompt": "A futuristic cyberpunk city street at night, neon signs, rain, reflections on the wet ground."
           },
           {
             "id": "new_03",
             "label": "Anime Look",
-            "imageUrl": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg",
+            "prompt": "Beautiful anime scenery, cherry blossom trees, a serene temple in the background, Makoto Shinkai style."
           },
           {
             "id": "new_04",
             "label": "Watercolor",
-            "imageUrl": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg",
+            "prompt": "A beautiful landscape painted in watercolor style, soft colors, paper texture."
           }
         ]
       },
@@ -80,17 +87,20 @@
           {
             "id": "vid_01",
             "label": "Magic Effects",
-            "imageUrl": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg",
+            "prompt": "A person casting a magic spell with glowing particles, fantasy, cinematic."
           },
           {
             "id": "vid_02",
             "label": "Slow Motion",
-            "imageUrl": "https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg",
+            "prompt": "Water balloon bursting in ultra slow motion, detailed water splash, high speed photography."
           },
           {
             "id": "vid_03",
             "label": "Old Film",
-            "imageUrl": "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg"
+            "imageUrl": "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg",
+            "prompt": "A city street scene with an old film look, scratches, dust, faded colors, 1970s."
           }
         ]
       }
